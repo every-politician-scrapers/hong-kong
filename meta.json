@@ -1,20 +1,24 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+      "name": "Hong Kong",
+      "id": "Q8646"
+    },
+    "country": {
+      "name": "China",
+      "id": "Q148"
     },
     "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
+      "id": "Q30456283",
+      "start": "2017-07-01",
+      "parent": "Q1545681"
     },
     "source": {
-        "url":   "XXX",
-        "title": "XXX",
+        "url":   "https://www.ceo.gov.hk/exco/eng/membership.html",
+        "title": "Executive Council - Membership of Executive Council",
         "lang":  {
             "code": "en",
             "wikidata": "Q1860"
         }
     },
-    "agent": "every-politican-scrapers/XXX"
+    "agent": "every-politican-scrapers/hong-kong-ministers"
 }
