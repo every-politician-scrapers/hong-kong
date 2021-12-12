@@ -7,17 +7,19 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('.name').text.tidy
+      noko.css('a').text.gsub(/The Honourable/i, '').tidy
     end
 
     def position
-      noko.css('.position').text.tidy
+      noko.xpath('.//text()').last.text.tidy
     end
   end
 
   class Members
     def member_container
-      noko.css('.member')
+      # This removes the 'Non-Official Members'. TODO: include them
+      noko.xpath('.//h2[contains(., "Non-Official Members")]//following::*').remove
+      noko.css('.members')
     end
   end
 end
