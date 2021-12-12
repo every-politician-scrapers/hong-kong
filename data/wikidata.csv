@@ -1,17 +1,18 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,start,psid
-Q19217,Carrie Lam,Carrie Lam,female,1957-05-13,11,,,Q2741486,Chief Executive of Hong Kong,2017-07-01,Q19217-bbf76082-46d2-ebdf-546c-a45559780c66
-Q2969725,Raymond Tam,Raymond Tam,male,1964-05-29,11,,,Q7444253,Secretary for Constitutional and Mainland Affairs,2011-09-30,Q2969725-e04e6eaf-45ef-e962-e85e-9ec5be6fe5ce
-Q30465932,Michael Wong Wai-lun,Michael Wong Wai-lun,male,1962-01-01,9,,,Q7444254,Secretary for Development,2017-07-01,Q30465932-127210e7-4d67-6862-87a8-9641996f219a
-Q30466057,Joshua Law,Joshua Law,male,1957-05-22,11,,,Q7444277,Secretary for the Civil Service,2017-07-01,Q30466057-5826a05f-4c69-8195-8cfc-a95b2899048e
-Q4772260,Anthony Cheung,Anthony Cheung,male,1952-11-17,11,,,Q7444275,Secretary for Transport and Housing,2012-07-01,Q4772260-8ce38da7-4248-aaae-f81f-cc554463977c
-Q5346019,Edward Yau,Edward Yau,male,1960-04-28,11,,,Q7444252,Secretary for Commerce and Economic Development,2017-07-01,Q5346019-677b2102-4c9e-7ae5-1900-c934e391606e
-Q6497623,Lau Kong-wah,Lau Kong-wah,male,1957-06-22,11,,,Q7444263,Secretary for Home Affairs,2015-07-21,Q6497623-463fb613-45e9-7244-8411-d2c900bb5089
-Q6502994,Law Chi-kwong,Law Chi-kwong,male,1953-11-01,11,,,Q7444266,Secretary for Labour and Welfare,2017-07-01,Q6502994-d62b77e5-432e-a948-4fea-c3f069ad0c11
-Q6790301,Matthew Cheung,Matthew Cheung,male,1950-11-20,11,,,Q3135366,Chief Secretary for Administration,2017-01-16,Q6790301-3dca0878-48bb-fe3b-d169-c5af9c62de5e
-Q7149777,Paul Chan Mo-po,Paul Chan Mo-po,male,1955-03-18,11,,,Q637960,Financial Secretary,2017-01-16,Q7149777-486693fa-4626-7074-8f20-4a8ebcc81950
-Q9051824,John Lee,John Lee,male,1957-12-07,11,,,Q3135366,Chief Secretary for Administration,2021-06-25,Q9051824-deb40e2d-402d-7868-0bf3-d9d73e29a404
-Q91852840,Alfred Sit,Alfred Sit,male,1962-01-01,9,,,Q25339746,Secretary for Innovation and Technology,2020-04-22,Q91852840-98aae8bf-4fbb-6e37-f2e0-9c2f7effba46
-Q9299188,Kevin Yeung,Kevin Yeung,male,1963-01-26,11,,,Q7444260,Secretary for Education,2017-07-01,Q9299188-945c538c-4bef-65d4-8fbc-9b3ffff98da9
-Q9370149,Sophia Chan Siu-chee,Sophia Chan Siu-chee,female,1958-01-01,9,,,Q7444261,Secretary for Food and Health,2017-07-01,Q9370149-f8df3dae-4e0b-9865-dadd-1741372539d2
-Q5607180,Gregory So,Gregory So,male,1958-01-01,9,,,Q7444252,Secretary for Commerce and Economic Development,2011-06-28,q5607180-498b33d7-4eee-8bc1-2be7-280f8ccba255
-Q8031992,Wong Kam-sing,Wong Kam-sing,male,1963-01-01,9,,,Q7444278,Secretary for the Environment,2012-07-01,q8031992-fab17e59-44d4-0082-7eac-67a46eed34a2
+Q19217,Mrs Carrie LAM CHENG Yuet-ngor,Carrie Lam,female,1957-05-13,11,https://www.ceo.gov.hk/exco/eng/membership.html,2021-12-12,Q2741486,The Chief Executive,2017-07-01,Q19217-bbf76082-46d2-ebdf-546c-a45559780c66
+Q30465932,Michael WONG Wai-lun,Michael Wong Wai-lun,male,1962-01-01,9,https://www.ceo.gov.hk/exco/eng/membership.html,2021-12-12,Q7444254,Secretary for Development,2017-07-01,Q30465932-127210e7-4d67-6862-87a8-9641996f219a
+Q30822829,Frank CHAN Fan,Frank Chan,male,1958-02-04,11,https://www.ceo.gov.hk/exco/eng/membership.html,2021-12-12,Q7444275,Secretary for Transport and Housing,2017-07-01,Q30822829-45C5B0C6-BA89-402D-A042-F2E8EF4A41D4
+Q30825347,Erick TSANG Kwok-wai,Erick Tsang,male,1963-09-01,11,https://www.ceo.gov.hk/exco/eng/membership.html,2021-12-12,Q7444253,Secretary for Constitutional and Mainland Affairs,2020-04-22,Q30825347-4BC59C49-B9CD-4381-A782-6A5A7B0E5611
+Q47073007,Teresa CHENG Yeuk-wah,Teresa Cheng Yeuk-wah,female,1958-11-11,11,https://www.ceo.gov.hk/exco/eng/membership.html,2021-12-12,Q835507,The Secretary for Justice,2018-01-06,Q47073007-20924017-4d07-60d8-d68d-5fb6a5f50dc0
+Q48914413,TANG Ping-keung,Tang Ping-keung,male,1965-07-04,11,https://www.ceo.gov.hk/exco/eng/membership.html,2021-12-12,Q5541355,Secretary for Security,2021-06-25,Q48914413-22CCFAF6-7E96-4BAC-909E-04395C600879
+Q5346019,Edward YAU Tang-wah,Edward Yau,male,1960-04-28,11,https://www.ceo.gov.hk/exco/eng/membership.html,2021-12-12,Q7444252,Secretary for Commerce and Economic Development,2017-07-01,Q5346019-677b2102-4c9e-7ae5-1900-c934e391606e
+Q6502994,Dr LAW Chi-kwong,Law Chi-kwong,male,1953-11-01,11,https://www.ceo.gov.hk/exco/eng/membership.html,2021-12-12,Q7444266,Secretary for Labour and Welfare,2017-07-01,Q6502994-d62b77e5-432e-a948-4fea-c3f069ad0c11
+Q7149777,Paul CHAN Mo-po,Paul Chan Mo-po,male,1955-03-18,11,https://www.ceo.gov.hk/exco/eng/membership.html,2021-12-12,Q637960,The Financial Secretary,2017-01-16,Q7149777-486693fa-4626-7074-8f20-4a8ebcc81950
+Q9017462,Patrick NIP Tak-kuen,Patrick Nip,male,1964-07-08,11,https://www.ceo.gov.hk/exco/eng/membership.html,2021-12-12,Q7444277,Secretary for the Civil Service,2020-04-22,Q9017462-07167811-94CB-4E6D-B1D9-F96310154AC4
+Q9051824,John LEE Ka-chiu,John Lee,male,1957-12-07,11,https://www.ceo.gov.hk/exco/eng/membership.html,2021-12-12,Q3135366,The Chief Secretary for Administration,2021-06-25,Q9051824-deb40e2d-402d-7868-0bf3-d9d73e29a404
+Q91408367,Christopher HUI Ching-yu,Christopher Hui,male,1976-01-01,9,https://www.ceo.gov.hk/exco/eng/membership.html,2021-12-12,Q7444258,Secretary for Financial Services and the Treasury,2020-04-22,Q91408367-10DE792A-036B-48CE-B8C4-A7CF7C030F6F
+Q9141341,Caspar TSUI Ying-wai,Caspar Ying-wai Tsui,male,1977-01-01,9,https://www.ceo.gov.hk/exco/eng/membership.html,2021-12-12,Q7444263,Secretary for Home Affairs,2020-04-22,Q9141341-CBBBC816-EBAB-43E7-AABF-DA6AB1E2287E
+Q91852840,Alfred SIT Wing-hang,Alfred Sit,male,1962-01-01,9,https://www.ceo.gov.hk/exco/eng/membership.html,2021-12-12,Q25339746,Secretary for Innovation and Technology,2020-04-22,Q91852840-98aae8bf-4fbb-6e37-f2e0-9c2f7effba46
+Q9299188,Kevin YEUNG Yun-hung,Kevin Yeung,male,1963-01-26,11,https://www.ceo.gov.hk/exco/eng/membership.html,2021-12-12,Q7444260,Secretary for Education,2017-07-01,Q9299188-945c538c-4bef-65d4-8fbc-9b3ffff98da9
+Q9370149,Professor Sophia CHAN Siu-chee,Sophia Chan Siu-chee,female,1958-01-01,9,https://www.ceo.gov.hk/exco/eng/membership.html,2021-12-12,Q7444261,Secretary for Food and Health,2017-07-01,Q9370149-f8df3dae-4e0b-9865-dadd-1741372539d2
+Q8031992,WONG Kam-sing,Wong Kam-sing,male,1963-01-01,9,https://www.ceo.gov.hk/exco/eng/membership.html,2021-12-12,Q7444278,Secretary for the Environment,2012-07-01,q8031992-fab17e59-44d4-0082-7eac-67a46eed34a2
