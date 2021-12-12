@@ -1,0 +1,258 @@
+{
+  "title": "Chris Tang",
+  "pageID": 62392192,
+  "categories": [
+    "Hong Kong Police commissioners",
+    "Living people",
+    "1965 births",
+    "Hong Kong civil servants",
+    "Government officials of Hong Kong",
+    "Alumni of the Chinese University of Hong Kong",
+    "Individuals sanctioned by the United States under the Hong Kong Autonomy Act",
+    "Specially Designated Nationals and Blocked Persons List"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Chris Tang Ping-keung, (born 4 July 1965) is the Secretary for Security in Hong Kong since 25 June 2021, prior to which he served as the Commissioner of the Hong Kong Police Force from 19 November 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Secretary for Security"
+                },
+                {
+                  "text": "Commissioner",
+                  "type": "internal",
+                  "page": "Commissioner of Police (Hong Kong)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Hong Kong Police Force"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Chris Tang Ping-keung"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Hong Kong security minister",
+          "template": "short description"
+        },
+        {
+          "date": "July 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "country": "HKG",
+          "size": "100%",
+          "list": [
+            "PDSM"
+          ],
+          "template": "post-nominals"
+        },
+        {
+          "year": "1965",
+          "month": "7",
+          "day": "4",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "order": "ts",
+          "t": "鄧炳強",
+          "s": "邓炳强",
+          "j": "dang6 bing2 koeng4",
+          "p": "Dèng Bǐngqiáng",
+          "template": "chinese"
+        },
+        {
+          "country": "HKG",
+          "list": [
+            "PDSM"
+          ],
+          "size": "100%",
+          "template": "post-nominals"
+        },
+        {
+          "list": [
+            "鄧炳強"
+          ],
+          "template": "zh-t"
+        }
+      ],
+      "infoboxes": [
+        {
+          "child": {
+            "text": "yes"
+          },
+          "department": {
+            "text": "Hong Kong Police Force",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hong Kong Police Force"
+              }
+            ]
+          },
+          "serviceyears": {
+            "text": "1987–2021"
+          },
+          "rank": {
+            "text": "Commissioner",
+            "links": [
+              {
+                "text": "Commissioner",
+                "type": "internal",
+                "page": "Commissioner of Police (Hong Kong)"
+              }
+            ]
+          },
+          "awards": {
+            "text": "Police Distinguished Service Medal (2018)",
+            "links": [
+              {
+                "text": "Police Distinguished Service Medal",
+                "type": "internal",
+                "page": "Decorations and medals of Hong Kong",
+                "anchor": "Disciplined Services and ICAC Awards"
+              }
+            ]
+          }
+        },
+        {
+          "name": {
+            "text": "Chris Tang"
+          },
+          "image": {
+            "text": "Tang Ping-keung 20201012.jpg"
+          },
+          "native_name": {
+            "text": "鄧炳強"
+          },
+          "native_name_lang": {
+            "text": "zh-hk"
+          },
+          "birth_date": {
+            "text": "July 4, 1965"
+          },
+          "birth_place": {
+            "text": "Hong Kong",
+            "links": [
+              {
+                "text": "Hong Kong",
+                "type": "internal",
+                "page": "British Hong Kong"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Secretary for Security",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Secretary for Security"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "25 June 2021"
+          },
+          "1blankname1": {
+            "text": "Chief Executive"
+          },
+          "1namedata1": {
+            "text": "Carrie Lam",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carrie Lam"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "John Lee",
+            "links": [
+              {
+                "text": "John Lee",
+                "type": "internal",
+                "page": "John Lee (government official)"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Commissioner of Police",
+            "links": [
+              {
+                "text": "Commissioner of Police",
+                "type": "internal",
+                "page": "Commissioner of Police (Hong Kong)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "18 November 2019"
+          },
+          "term_end2": {
+            "text": "25 June 2021"
+          },
+          "1blankname2": {
+            "text": "Chief Executive"
+          },
+          "1namedata2": {
+            "text": "Carrie Lam",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carrie Lam"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Stephen Lo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stephen Lo"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Raymond Siu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Raymond Siu"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Chung Chi College, CUHK (BSS)",
+            "links": [
+              {
+                "text": "Chung Chi College, CUHK",
+                "type": "internal",
+                "page": "Chung Chi College"
+              },
+              {
+                "text": "BSS",
+                "type": "internal",
+                "page": "Bachelor of Social Science"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

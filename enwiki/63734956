@@ -1,0 +1,290 @@
+{
+  "title": "Alfred Sit",
+  "pageID": 63734956,
+  "categories": [
+    "1962 births",
+    "Living people",
+    "Hong Kong civil servants",
+    "Government officials of Hong Kong",
+    "Members of the Executive Council of Hong Kong",
+    "Hong Kong engineers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alfred Sit Wing-hang (born 1962) is a Hong Kong government official.",
+              "formatting": {
+                "bold": [
+                  "Alfred Sit Wing-hang"
+                ]
+              }
+            },
+            {
+              "text": "Since 2020, he has been Secretary for Innovation and Technology.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Secretary for Innovation and Technology"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Sit joined the Hong Kong government as an Assistant Electrical and Mechanical Engineer in September 1984 and was promoted to Chief Electrical and Mechanical Engineer in August 2001."
+            },
+            {
+              "text": "He was subsequently promoted to Government Electrical and Mechanical Engineer in December 2007 and to Deputy Director of Electrical and Mechanical Services in September 2011.",
+              "links": [
+                {
+                  "text": "Electrical and Mechanical Services",
+                  "type": "internal",
+                  "page": "Electrical and Mechanical Services Department"
+                }
+              ]
+            },
+            {
+              "text": "He rose to Director of Electrical and Mechanical Services in October 2017."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Sit was president of the Hong Kong Institute of Facility Management, the chairman of the Biomedical Division, and the honorary secretary of the Nuclear Division of the Hong Kong Institution of Engineers.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hong Kong Institution of Engineers"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In April 2020, Chief Executive Carrie Lam appointed him Secretary for Innovation and Technology, succeeding Nicholas Yang.",
+              "links": [
+                {
+                  "text": "Chief Executive",
+                  "type": "internal",
+                  "page": "Chief Executive of Hong Kong"
+                },
+                {
+                  "type": "internal",
+                  "page": "Carrie Lam"
+                },
+                {
+                  "type": "internal",
+                  "page": "Secretary for Innovation and Technology"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nicholas Yang"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Sit",
+            "Alfred Sit",
+            "Sit Wing-hang"
+          ],
+          "lang": "Hong Kong",
+          "template": "family name hatnote"
+        },
+        {
+          "birth_year": "1962",
+          "template": "birth year and age"
+        },
+        {
+          "c": "薛永恒",
+          "p": "Xuē Yǒnghéng",
+          "template": "zh"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Alfred Sit Wing-hang"
+          },
+          "native_name": {
+            "text": "薛永恒"
+          },
+          "native_name_lang": {
+            "text": "zh-hk"
+          },
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable",
+                "anchor": "Hong Kong"
+              }
+            ]
+          },
+          "honorific-suffix": {
+            "text": "JP",
+            "links": [
+              {
+                "text": "JP",
+                "type": "internal",
+                "page": "Justice of the Peace"
+              }
+            ]
+          },
+          "image": {
+            "text": "20200422 HK Government Reshuffle 薛永恒.png"
+          },
+          "office1": {
+            "text": "Secretary for Innovation and Technology",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Secretary for Innovation and Technology"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "22 April 2020"
+          },
+          "1blankname1": {
+            "text": "Chief Executive"
+          },
+          "1namedata1": {
+            "text": "Carrie Lam",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carrie Lam"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Nicholas Yang",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nicholas Yang"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Director of Electrical and Mechanical Services",
+            "links": [
+              {
+                "text": "Electrical and Mechanical Services",
+                "type": "internal",
+                "page": "Electrical and Mechanical Services Department"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "October 2017"
+          },
+          "term_end2": {
+            "text": "22 April 2020"
+          },
+          "1blankname2": {
+            "text": "Secretary for Development",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Secretary for Development"
+              }
+            ]
+          },
+          "1namedata2": {
+            "text": "Michael Wong",
+            "links": [
+              {
+                "text": "Michael Wong",
+                "type": "internal",
+                "page": "Michael Wong Wai-lun"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Frank Chan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Frank Chan"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Pang Yiu-hung",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pang Yiu-hung"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "1962 (age 59)"
+          },
+          "birth_place": {
+            "text": "British Hong Kong",
+            "links": [
+              {
+                "text": "British Hong Kong",
+                "type": "internal",
+                "page": "undefined"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Tang King Po School Hong Kong Polytechnic Chinese University of Hong Kong",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tang King Po School"
+              },
+              {
+                "type": "internal",
+                "page": "Hong Kong Polytechnic"
+              },
+              {
+                "type": "internal",
+                "page": "Chinese University of Hong Kong"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "New faces Carrie Lam has enlisted to help Hong Kong tackle coronavirus impact",
+          "url": "https://www.scmp.com/news/hong-kong/politics/article/3081048/new-faces-carrie-lam-has-enlisted-help-hong-kong-tackle",
+          "date": "20 April 2020",
+          "newspaper": "South China Morning Post",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Government announces appointment and removal of Principal Officials (with photos)",
+          "work": "Hong Kong Government",
+          "date": "20 April 2020",
+          "url": "https://www.info.gov.hk/gia/general/202004/22/P2020042200459.htm?fontSize=1",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    }
+  ]
+}
