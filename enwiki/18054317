@@ -106,6 +106,18 @@
           "template": "birth date and age"
         },
         {
+          "text": "4",
+          "template": "sup"
+        },
+        {
+          "text": "1",
+          "template": "sup"
+        },
+        {
+          "text": "6",
+          "template": "sup"
+        },
+        {
           "country": "HKG",
           "list": [
             "GBM",
@@ -364,7 +376,7 @@
             "text": "Liáng Jūnyàn"
           },
           "j": {
-            "text": "Loeng 4 Gwan 1 -jin 6"
+            "text": "Loeng4 Gwan1-jin6"
           },
           "y": {
             "text": "Lèuhng Gwān-yihn"

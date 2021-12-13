@@ -92,6 +92,18 @@
           "template": "birth date and age"
         },
         {
+          "text": "1",
+          "template": "sup"
+        },
+        {
+          "text": "4",
+          "template": "sup"
+        },
+        {
+          "text": "4",
+          "template": "sup"
+        },
+        {
           "t": "邱騰華",
           "template": "zh"
         }
@@ -307,8 +319,11 @@
             "links": [
               {
                 "text": "Yvonne Choi",
-                "type": "internal",
-                "page": ":zh:蔡瑩璧"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "zh"
+                }
               }
             ]
           },
@@ -317,8 +332,11 @@
             "links": [
               {
                 "text": "Fung Ching Suk-yee",
-                "type": "internal",
-                "page": ":zh:馮程淑儀"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "zh"
+                }
               }
             ]
           }
@@ -328,7 +346,7 @@
             "text": "邱騰華"
           },
           "j": {
-            "text": "Jau 1 Tang 4 waa 4"
+            "text": "Jau1 Tang4 waa4"
           },
           "y": {
             "text": "Yāu Tàhng wàh"
