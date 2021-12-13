@@ -173,6 +173,18 @@
           "template": "birth date and age"
         },
         {
+          "text": "4",
+          "template": "sup"
+        },
+        {
+          "text": "6",
+          "template": "sup"
+        },
+        {
+          "text": "1",
+          "template": "sup"
+        },
+        {
           "list": [
             "ch",
             "en",
@@ -434,7 +446,7 @@
             "text": "Chàhn Mauh bō"
           },
           "j": {
-            "text": "Can 4 Mau 6 bo 1"
+            "text": "Can4 Mau6 bo1"
           },
           "p": {
             "text": "Chén Maòbō"
