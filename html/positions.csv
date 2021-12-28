@@ -4,11 +4,19 @@ Q3135366,Chief Secretary for Administration,Q148,Q8646,,,1997-07-01,,,,Chief Sec
 Q7444277,Secretary for the Civil Service,Q148,Q8646,,,1997-07-01,,,,Secretary for the Civil Service
 Q7444252,Secretary for Commerce and Economic Development,Q148,,,,2007-07-01,,,,Secretary for Commerce and Economic Development
 Q7444253,Secretary for Constitutional and Mainland Affairs,Q148,,,,2007-07-01,,,,Secretary for Constitutional and Mainland Affairs
+Q7444254,Secretary for Development,Q148,,,,2007-07-01,,Q7444279,,Secretary for Development
 Q7444260,Secretary for Education,Q148,Q8646,,,2007-07-01,,,,Secretary for Education (Hong Kong)
+Q7444278,Secretary for the Environment,Q148,Q8646,,,2007-07-01,,Q7444279,,Secretary for the Environment
+Q637960,Financial Secretary,Q148,Q8646,,,1997-07-01,,Q23901418,,Financial Secretary (Hong Kong)
 Q7444258,Secretary for Financial Services and the Treasury,Q148,,,,2002-07-01,,,,Secretary for Financial Services and the Treasury
 Q7444261,Secretary for Food and Health,Q148,Q8646,,,2007-07-01,,,,Secretary for Food and Health
 Q28012226,Secretary for Health and Welfare,,Q8646,,,1997-07-01,2002-06-30,,,
 Q7444262,"Secretary for Health, Welfare and Food",,Q8646,,,2002-07-01,2007-06-30,,,"Secretary for Health, Welfare and Food"
 Q7444263,Secretary for Home Affairs,Q148,,,,1997-07-01,,,,Secretary for Home Affairs
 Q28013721,Secretary for Housing,,Q8646,,,1997-07-01,2002-06-30,,,
+Q25339746,Secretary for Innovation and Technology,Q148,Q8646,,,2015-11-20,,,,Secretary for Innovation and Technology
+Q835507,Secretary for Justice,,Q8646,,,1997-07-01,,Q23928722,,Secretary for Justice (Hong Kong)
 Q7444266,Secretary for Labour and Welfare,Q148,,,,2007-07-01,,,,Secretary for Labour and Welfare
+Q5541355,Secretary for Security,Q148,Q8646,,,1997-07-01,,Q23939660,,Secretary for Security
+Q7444275,Secretary for Transport and Housing,Q148,,,,2007-07-01,,Q7444264,,Secretary for Transport and Housing
+Q3068969,President of the Legislative Council of Hong Kong,,Q8646,,,1998-07-01,,Q25880369,,President of the Legislative Council of Hong Kong
