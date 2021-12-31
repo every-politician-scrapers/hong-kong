@@ -315,6 +315,23 @@
               "text": "In October 2021, Yeung said that teachers at private schools may be forced to take a test on the Basic Law."
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In December 2021, Yeung announced that the Education Bureau had installed around 20 flag poles in public schools, to facilitate mandatory flag-raising ceremonies of the PRC flag.",
+              "links": [
+                {
+                  "text": "PRC flag",
+                  "type": "internal",
+                  "page": "Flag of China"
+                }
+              ]
+            },
+            {
+              "text": "Yeung claimed that the flag-raising would improve students' recognition of their country and their identity as Chinese nationals."
+            }
+          ]
         }
       ],
       "templates": [
@@ -686,6 +703,22 @@
           "access-date": "2021-02-06",
           "website": "news.rthk.hk",
           "language": "en-gb",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "More poles to prepare schools for compulsory flag-raising ceremony",
+          "url": "https://www.thestandard.com.hk/breaking-news/section/4/185244/More-poles-to-prepare-schools-for-compulsory-flag-raising-ceremony",
+          "url-status": "live",
+          "website": "The Standard HK",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "More poles to prepare schools for compulsory flag-raising ceremony",
+          "url": "https://www.thestandard.com.hk/breaking-news/section/4/185244/More-poles-to-prepare-schools-for-compulsory-flag-raising-ceremony",
+          "url-status": "live",
+          "website": "The Standard HK",
           "template": "citation",
           "type": "web"
         }
