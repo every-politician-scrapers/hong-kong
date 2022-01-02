@@ -232,7 +232,7 @@
             ]
           },
           "birth_date": {
-            "text": "1963 (age 58)"
+            "text": "1963 (age 59)"
           },
           "birth_place": {
             "text": "🇭🇰"
@@ -240,22 +240,6 @@
           "spouse": {
             "text": "Susan Leung So-wan"
           }
-        }
-      ],
-      "references": [
-        {
-          "url": "https://www.news.gov.hk/en/categories/admin/html/2012/06/20120628_095212.shtml",
-          "title": "Central Gov't appoints new HKSAR team",
-          "publisher": "Information Services Department",
-          "date": "Jun 2012",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
         }
       ]
     }

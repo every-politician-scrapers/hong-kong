@@ -341,7 +341,7 @@
             ]
           },
           "birth_date": {
-            "text": "1977 (age 44)"
+            "text": "1977 (age 45)"
           },
           "birth_place": {
             "text": "British Hong Kong",
@@ -390,46 +390,6 @@
               }
             ]
           }
-        }
-      ],
-      "references": [
-        {
-          "title": "Government announces appointment and removal of Principal Officials (with photos)",
-          "work": "Hong Kong Government",
-          "date": "20 April 2020",
-          "url": "https://www.info.gov.hk/gia/general/202004/22/P2020042200459.htm?fontSize=1",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "2020-12-09",
-          "title": "Hong Kong to study 'loopholes' in current laws against misinformation as press freedom advocate raises alarm",
-          "url": "https://hongkongfp.com/2020/12/09/hong-kong-to-study-loopholes-in-current-laws-against-misinformation-as-press-freedom-advocate-raises-alarm/",
-          "access-date": "2020-12-09",
-          "website": "Hong Kong Free Press HKFP",
-          "language": "en-GB",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Kong",
-          "first": "Dimsumdaily Hong",
-          "date": "2021-04-06",
-          "title": "Secretary for Home Affairs holds briefing sessions on improvements to electoral system of HK for sports and culture sectors",
-          "url": "https://www.dimsumdaily.hk/secretary-for-home-affairs-holds-briefing-sessions-on-improvements-to-electoral-system-of-hk-for-sports-and-culture-sectors/",
-          "access-date": "2021-04-07",
-          "website": "Dimsum Daily",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "New faces Carrie Lam has enlisted to help Hong Kong tackle coronavirus impact",
-          "url": "https://www.scmp.com/news/hong-kong/politics/article/3081048/new-faces-carrie-lam-has-enlisted-help-hong-kong-tackle",
-          "date": "20 April 2020",
-          "newspaper": "South China Morning Post",
-          "template": "citation",
-          "type": "news"
         }
       ]
     }

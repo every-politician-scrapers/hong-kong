@@ -244,7 +244,7 @@
             ]
           },
           "birth_date": {
-            "text": "1958 (age 63)"
+            "text": "1958 (age 64)"
           },
           "alma_mater": {
             "text": "University of Manchester (MEd) Harvard University (MPH) University of Hong Kong (PhD)",
@@ -278,66 +278,6 @@
               }
             ]
           }
-        }
-      ],
-      "references": [
-        {
-          "url": "http://archive.news.gov.hk/en/categories/admin/html/2012/10/20121031_152810.shtml?pickList=ticker",
-          "title": "Under Secretaries, Political Assistants appointed",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://www.info.gov.hk/gia/general/201805/30/P2018053000640.htm",
-          "title": "LCQ22: Prohibiting the trade of products containing ingredients from bear bile",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Govt approves Sinovac jabs 'in the public interest' - RTHK",
-          "url": "https://news.rthk.hk/rthk/en/component/k2/1576185-20210218.htm?",
-          "access-date": "2021-02-18",
-          "website": "news.rthk.hk",
-          "language": "en-gb",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2021-02-17",
-          "title": "Covid-19: Hong Kong experts endorse China's Sinovac vaccine before trial results are published",
-          "url": "https://hongkongfp.com/2021/02/17/covid-19-hong-kong-experts-endorse-chinas-sinovac-vaccine-before-trial-results-are-published/",
-          "access-date": "2021-02-18",
-          "website": "Hong Kong Free Press HKFP",
-          "language": "en-GB",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "'HK will help global Covid fight with revamped Legco' - RTHK",
-          "url": "https://news.rthk.hk/rthk/en/component/k2/1623836-20211212.htm?",
-          "access-date": "2021-12-12",
-          "website": "news.rthk.hk",
-          "language": "en-gb",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.fhb.gov.hk/en/aboutus/biography/usfh.htm",
-          "title": "Professor Sophia CHAN, JP",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last": "Kong",
-          "first": "Dimsumdaily Hong",
-          "date": "2021-04-07",
-          "title": "Secretary for Food and Health meets with stakeholders on improving Hong Kong's electoral system",
-          "url": "https://www.dimsumdaily.hk/secretary-for-food-and-health-meets-with-stakeholders-on-improving-hong-kongs-electoral-system/",
-          "access-date": "2021-04-07",
-          "website": "Dimsum Daily",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
         }
       ]
     }

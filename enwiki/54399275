@@ -221,7 +221,7 @@
             ]
           },
           "birth_date": {
-            "text": "1962 (age 59)"
+            "text": "1962 (age 60)"
           },
           "spouse": {
             "text": "Ms. CHAN Wing Shiu, May, (m. 2008)"
@@ -239,32 +239,6 @@
               }
             ]
           }
-        }
-      ],
-      "references": [
-        {
-          "url": "https://www.devb.gov.hk/filemanager/en/content_820/1A_20200727_SDEV_Declaration_ENG.pdf",
-          "title": "Registration of Financial and Other Interests, Affiliation with Political Parties, Membership of Boards, Committees and Organisations of the Principal Officials under the Code for Officials under the Political Appointment System",
-          "publisher": "Development Bureau",
-          "date": "27 July 2020",
-          "archive-url": "https://web.archive.org/web/20201129090727/https://www.devb.gov.hk/filemanager/en/content_820/1A_20200727_SDEV_Declaration_ENG.pdf",
-          "archive-date": "29 November 2020",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Mr Michael Wong Wai-lun, JP, Secretary for Development",
-          "url": "https://www.gov.hk/en/about/govdirectory/po/sdev.htm",
-          "work": "Hong Kong government",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Senior appointments (with photos)",
-          "url": "http://www.info.gov.hk/gia/general/201508/26/P201508260566.htm",
-          "template": "citation",
-          "type": "news"
         }
       ]
     }
