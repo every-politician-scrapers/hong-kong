@@ -236,7 +236,7 @@
             ]
           },
           "birth_date": {
-            "text": "1962 (age 59)"
+            "text": "1962 (age 60)"
           },
           "birth_place": {
             "text": "British Hong Kong",
@@ -265,24 +265,6 @@
               }
             ]
           }
-        }
-      ],
-      "references": [
-        {
-          "title": "New faces Carrie Lam has enlisted to help Hong Kong tackle coronavirus impact",
-          "url": "https://www.scmp.com/news/hong-kong/politics/article/3081048/new-faces-carrie-lam-has-enlisted-help-hong-kong-tackle",
-          "date": "20 April 2020",
-          "newspaper": "South China Morning Post",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Government announces appointment and removal of Principal Officials (with photos)",
-          "work": "Hong Kong Government",
-          "date": "20 April 2020",
-          "url": "https://www.info.gov.hk/gia/general/202004/22/P2020042200459.htm?fontSize=1",
-          "template": "citation",
-          "type": "news"
         }
       ]
     }
