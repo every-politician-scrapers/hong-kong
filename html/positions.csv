@@ -1,6 +1,6 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
 Q2741486,Chief Executive of Hong Kong,Q148,Q8646,,,1997-07-01,,,,Chief Executive of Hong Kong
-Q3135366,Chief Secretary for Administration,Q148,Q8646,,,1997-07-01,,,,Chief Secretary for Administration
+Q3135366,Chief Secretary for Administration,Q148,Q8646,,,1997-07-01,,Q23956655,,Chief Secretary for Administration
 Q7444277,Secretary for the Civil Service,Q148,Q8646,,,1997-07-01,,,,Secretary for the Civil Service
 Q7444252,Secretary for Commerce and Economic Development,Q148,,,,2007-07-01,,,,Secretary for Commerce and Economic Development
 Q7444253,Secretary for Constitutional and Mainland Affairs,Q148,,,,2007-07-01,,,,Secretary for Constitutional and Mainland Affairs
