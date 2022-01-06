@@ -66,6 +66,10 @@
       ],
       "templates": [
         {
+          "description": "Secretary for Justice of Hong Kong",
+          "template": "short description"
+        },
+        {
           "date": "July 2021",
           "template": "engvarb"
         },
