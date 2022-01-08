@@ -158,6 +158,30 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 5 January 2022, Carrie Lam announced new warnings and restrictions against social gathering due to potential COVID-19 outbreaks.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Carrie Lam"
+                },
+                {
+                  "text": "COVID-19",
+                  "type": "internal",
+                  "page": "COVID-19 pandemic in Hong Kong"
+                }
+              ]
+            },
+            {
+              "text": "One day later, it was discovered that Tsui attended a birthday party hosted by Witman Hung Wai-man, with 170 guests."
+            },
+            {
+              "text": "At least one guest spread COVID-19, causing all guests to be quarantined."
+            }
+          ]
         }
       ],
       "templates": [
