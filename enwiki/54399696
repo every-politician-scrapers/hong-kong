@@ -115,10 +115,19 @@
       "infoboxes": [
         {
           "name": {
-            "text": "Erick Tsang Kwok-wai"
+            "text": "Erick Tsang"
           },
           "image": {
-            "text": "File:20200422 HK Government Reshuffle 曾國衛.png"
+            "text": "Erick Tsang 2021 (cropped).png"
+          },
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
           },
           "native_name": {
             "text": "曾國衞"
