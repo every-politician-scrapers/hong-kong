@@ -20,7 +20,23 @@
         {
           "sentences": [
             {
-              "text": "Caspar Tsui Ying-wai (born 1977) is a Hong Kong politician and government official.",
+              "text": "Caspar Tsui Ying-wai (born 1977) is a Hong Kong politician, government official and DAB party member.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hong Kong"
+                },
+                {
+                  "text": "government official",
+                  "type": "internal",
+                  "page": "Government of Hong Kong"
+                },
+                {
+                  "text": "DAB",
+                  "type": "internal",
+                  "page": "Democratic Alliance for the Betterment and Progress of Hong Kong"
+                }
+              ],
               "formatting": {
                 "bold": [
                   "Caspar Tsui Ying-wai"
@@ -37,151 +53,6 @@
               ]
             }
           ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Tsui graduated in social sciences from the University of Ottawa and holds a Master of Business Administration degree from the University of Manchester.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "University of Ottawa"
-                },
-                {
-                  "type": "internal",
-                  "page": "Master of Business Administration"
-                },
-                {
-                  "type": "internal",
-                  "page": "University of Manchester"
-                }
-              ]
-            },
-            {
-              "text": "He worked at several banks including HSBC in Canada, Bank of Montreal, Merrill Lynch and American Express Bank before becoming an investment services manager at Hang Seng Bank.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "HSBC"
-                },
-                {
-                  "type": "internal",
-                  "page": "Bank of Montreal"
-                },
-                {
-                  "type": "internal",
-                  "page": "Merrill Lynch"
-                },
-                {
-                  "type": "internal",
-                  "page": "American Express Bank"
-                },
-                {
-                  "type": "internal",
-                  "page": "Hang Seng Bank"
-                }
-              ]
-            },
-            {
-              "text": "He stepped into politics in 2006 when he joined the Democratic Alliance for the Betterment and Progress of Hong Kong (DAB), the largest pro-Beijing party in Hong Kong.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Democratic Alliance for the Betterment and Progress of Hong Kong"
-                },
-                {
-                  "text": "pro-Beijing",
-                  "type": "internal",
-                  "page": "Pro-Beijing camp (Hong Kong)"
-                }
-              ]
-            },
-            {
-              "text": "He was the vice-chairman of its youth branch, the Young DAB, from 2007 to 2008."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He joined the government in the appointed role of Political Assistant to the Secretary for Home Affairs in 2008, after he renounced his Canadian citizenship that year.",
-              "links": [
-                {
-                  "text": "appointed",
-                  "type": "internal",
-                  "page": "Political Appointments System"
-                },
-                {
-                  "type": "internal",
-                  "page": "Secretary for Home Affairs"
-                }
-              ]
-            },
-            {
-              "text": "In 2017 he became Under Secretary for Labour and Welfare.",
-              "links": [
-                {
-                  "text": "Under Secretary for Labour and Welfare",
-                  "type": "internal",
-                  "page": "Labour and Welfare Bureau"
-                }
-              ]
-            },
-            {
-              "text": "In April 2020, he was appointed Secretary for Home Affairs, while remaining a member of the DAB, succeeding Lau Kong-wah.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Lau Kong-wah"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In December 2020, Tsui said that freedom of speech for Hong Kong citizens is not \"absolute,\" and that \"The exercise by anyone of the right to freedom of expression carries with it special duties and responsibilities, and may therefore be subject to certain restrictions as provided by law as necessary for respect of the rights or reputations of others, or the protection of national security or of public order, or of public health or morals.\""
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In April 2021, Tsui briefed the sports and culture industries on why the NPCSC implemented rules to only allow \"patriots\" to serve in the government, and asked for their full support.",
-              "links": [
-                {
-                  "text": "NPCSC",
-                  "type": "internal",
-                  "page": "Standing Committee of the National People's Congress"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "On 5 January 2022, Carrie Lam announced new warnings and restrictions against social gathering due to potential COVID-19 outbreaks.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Carrie Lam"
-                },
-                {
-                  "text": "COVID-19",
-                  "type": "internal",
-                  "page": "COVID-19 pandemic in Hong Kong"
-                }
-              ]
-            },
-            {
-              "text": "One day later, it was discovered that Tsui attended a birthday party hosted by Witman Hung Wai-man, with 222 guests."
-            },
-            {
-              "text": "At least one guest tested positive with COVID-19, causing all guests to be quarantined."
-            }
-          ]
         }
       ],
       "templates": [
@@ -193,6 +64,10 @@
           ],
           "lang": "Hong Kong",
           "template": "family name hatnote"
+        },
+        {
+          "date": "January 2021",
+          "template": "use dmy dates"
         },
         {
           "birth_year": "1977",
@@ -207,15 +82,6 @@
       ],
       "infoboxes": [
         {
-          "name": {
-            "text": "Caspar Tsui Ying-wai"
-          },
-          "native_name": {
-            "text": "徐英偉"
-          },
-          "native_name_lang": {
-            "text": "zh-hk"
-          },
           "honorific-prefix": {
             "text": "The Honourable",
             "links": [
@@ -226,8 +92,20 @@
               }
             ]
           },
+          "name": {
+            "text": "Caspar Tsui"
+          },
+          "native_name": {
+            "text": "徐英偉"
+          },
+          "native_name_lang": {
+            "text": "zh-hk"
+          },
           "image": {
             "text": "Caspar Tsui in 2020 (cropped).png"
+          },
+          "caption": {
+            "text": "Tsui in 2020."
           },
           "office1": {
             "text": "Secretary for Home Affairs",
@@ -343,7 +221,7 @@
             ]
           },
           "1namedata3": {
-            "text": "Tsang Tak-sing → Lau Kong-wah",
+            "text": "Tsang Tak-sing\nLau Kong-wah",
             "links": [
               {
                 "type": "internal",
@@ -356,35 +234,24 @@
             ]
           },
           "successor3": {
-            "text": "Jade Lai",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jade Lai"
-              }
-            ]
+            "text": "Jade Lai Wing-yu"
           },
           "birth_date": {
             "text": "1977 (age 45)"
           },
           "birth_place": {
-            "text": "British Hong Kong",
+            "text": "Hong Kong",
             "links": [
               {
-                "text": "British Hong Kong",
+                "text": "Hong Kong",
                 "type": "internal",
-                "page": "undefined"
+                "page": "British Hong Kong"
               }
             ]
           },
           "nationality": {
-            "text": "🇭🇰 Chinese (Hong Kong)",
+            "text": "Chinese (Hong Kong)",
             "links": [
-              {
-                "text": "🇭🇰",
-                "type": "internal",
-                "page": "hong kong"
-              },
               {
                 "text": "Chinese (Hong Kong)",
                 "type": "internal",
@@ -393,24 +260,35 @@
             ]
           },
           "party": {
-            "text": "Democratic Alliance for the Betterment and Progress of Hong Kong (DAB)",
+            "text": "DAB",
             "links": [
               {
+                "text": "DAB",
                 "type": "internal",
                 "page": "Democratic Alliance for the Betterment and Progress of Hong Kong"
               }
             ]
           },
           "alma_mater": {
-            "text": "University of Ottawa\nUniversity of Manchester",
+            "text": "University of Ottawa (BSocSc)\nUniversity of Manchester (MBA)",
             "links": [
               {
                 "type": "internal",
                 "page": "University of Ottawa"
               },
               {
+                "text": "BSocSc",
+                "type": "internal",
+                "page": "Bachelor of Social Sciences"
+              },
+              {
                 "type": "internal",
                 "page": "University of Manchester"
+              },
+              {
+                "text": "MBA",
+                "type": "internal",
+                "page": "Master of Business Administration"
               }
             ]
           }
