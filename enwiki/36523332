@@ -15,7 +15,7 @@
         {
           "sentences": [
             {
-              "text": "Wong Kam-sing, GBS, JP (, born in 1963), with his ancestral home in Shunde, Guangdong, is a Hong Kong architect.",
+              "text": "Wong Kam-sing, GBS, JP (, born 1963) is a Hong Kong architect and politician who has been Secretary for the Environment since 2012.",
               "links": [
                 {
                   "text": "GBS",
@@ -30,6 +30,10 @@
                 {
                   "type": "internal",
                   "page": "Hong Kong"
+                },
+                {
+                  "type": "internal",
+                  "page": "Secretary for the Environment"
                 }
               ],
               "formatting": {
@@ -39,12 +43,8 @@
               }
             },
             {
-              "text": "Before serving as the current Secretary for the Environment, Wong had held a number of public service positions, including the first Chairman of the Environment and Sustainable Development Committee of the Hong Kong Institute of Architects, the Chairman of the Professional Green Building Council and the Vice Chairman of the Hong Kong Green Building Council.",
+              "text": "Before that, he had held a number of public service positions, including the first Chairman of the Environment and Sustainable Development Committee of the Hong Kong Institute of Architects, the Chairman of the Professional Green Building Council and the Vice Chairman of the Hong Kong Green Building Council.",
               "links": [
-                {
-                  "type": "internal",
-                  "page": "Secretary for the Environment"
-                },
                 {
                   "type": "internal",
                   "page": "Hong Kong Institute of Architects"
@@ -58,6 +58,10 @@
         }
       ],
       "templates": [
+        {
+          "date": "January 2022",
+          "template": "tone"
+        },
         {
           "list": [
             "Wong"
@@ -93,15 +97,6 @@
               }
             ]
           },
-          "name": {
-            "text": "Wong Kam-sing"
-          },
-          "native_name": {
-            "text": "黃錦星"
-          },
-          "native_name_lang": {
-            "text": "zh-hk"
-          },
           "honorific-suffix": {
             "text": "GBS, JP",
             "links": [
@@ -117,36 +112,36 @@
               }
             ]
           },
+          "native_name": {
+            "text": "黃錦星"
+          },
+          "native_name_lang": {
+            "text": "zh-hk"
+          },
           "image": {
             "text": "KS Wong 1.jpg"
           },
-          "nationality": {
-            "text": "Chinese (Hong Kong)",
-            "links": [
-              {
-                "text": "Chinese (Hong Kong)",
-                "type": "internal",
-                "page": "Chinese people"
-              }
-            ]
+          "order": {
+            "text": "2nd"
           },
           "office": {
-            "text": "Serving as the 2nd Secretary for the Environment of the Hong Kong Special Administrative Region (HKSAR)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Secretary for the Environment"
-              }
-            ]
+            "text": "Secretary for the Environment"
           },
           "term_start": {
             "text": "1 July 2012"
           },
           "1blankname": {
-            "text": "Chief Executive"
+            "text": "Chief Executive",
+            "links": [
+              {
+                "text": "Chief Executive",
+                "type": "internal",
+                "page": "Chief Executive of Hong Kong"
+              }
+            ]
           },
           "1namedata": {
-            "text": "Leung Chun-ying → Carrie Lam",
+            "text": "Leung Chun-ying Carrie Lam",
             "links": [
               {
                 "type": "internal",
@@ -159,10 +154,17 @@
             ]
           },
           "2blankname": {
-            "text": "Chief Secretary for Administration"
+            "text": "Chief Secretary",
+            "links": [
+              {
+                "text": "Chief Secretary",
+                "type": "internal",
+                "page": "Chief Secretary for Administration"
+              }
+            ]
           },
           "2namedata": {
-            "text": "Carrie Lam → Matthew Cheung",
+            "text": "Carrie Lam Matthew Cheung",
             "links": [
               {
                 "type": "internal",
@@ -175,52 +177,42 @@
             ]
           },
           "3blankname": {
-            "text": "Under Secretary for the Environment"
+            "text": "Under Secretary",
+            "links": [
+              {
+                "text": "Under Secretary",
+                "type": "internal",
+                "page": "Environment Bureau"
+              }
+            ]
           },
           "3namedata": {
-            "text": "Christine Loh → Tse Chin-wan",
+            "text": "Christine Loh Tse Chin-wan",
             "links": [
               {
                 "type": "internal",
                 "page": "Christine Loh"
-              },
-              {
-                "type": "internal",
-                "page": "Tse Chin-wan"
               }
             ]
           },
           "4blankname": {
-            "text": "Permanent Secretary for the Environment"
-          },
-          "4namedata": {
-            "text": "Anissa Wong Sean-yee → Donald Tong Chi-keung → Maisie Cheng Mei-sze",
+            "text": "Permanent Secretary",
             "links": [
               {
+                "text": "Permanent Secretary",
                 "type": "internal",
-                "page": "Anissa Wong Sean-yee"
-              },
-              {
-                "type": "internal",
-                "page": "Donald Tong Chi-keung"
-              },
-              {
-                "type": "internal",
-                "page": "Maisie Cheng Mei-sze"
+                "page": "Environment Bureau"
               }
             ]
+          },
+          "4namedata": {
+            "text": "Anissa Wong Sean-yee Donald Tong Chi-keung Maisie Cheng Mei-sze"
           },
           "5blankname": {
             "text": "Political Assistant"
           },
           "5namedata": {
-            "text": "Michelle Au Wing-tsz",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Michelle Au Wing-tsz"
-              }
-            ]
+            "text": "Michelle Au Wing-tsz"
           },
           "predecessor": {
             "text": "Edward Yau",
@@ -235,10 +227,43 @@
             "text": "1963 (age 59)"
           },
           "birth_place": {
-            "text": "🇭🇰"
+            "text": "Hong Kong",
+            "links": [
+              {
+                "text": "Hong Kong",
+                "type": "internal",
+                "page": "British Hong Kong"
+              }
+            ]
           },
           "spouse": {
             "text": "Susan Leung So-wan"
+          },
+          "children": {
+            "text": "1 daughter"
+          },
+          "nationality": {
+            "text": "Chinese (Hong Kong)",
+            "links": [
+              {
+                "text": "Chinese (Hong Kong)",
+                "type": "internal",
+                "page": "Chinese people"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Hong Kong\nUniversity of British Columbia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Hong Kong"
+              },
+              {
+                "type": "internal",
+                "page": "University of British Columbia"
+              }
+            ]
           }
         }
       ]
