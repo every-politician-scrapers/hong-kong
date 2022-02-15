@@ -54,6 +54,15 @@
           "template": "use dmy dates"
         },
         {
+          "list": [
+            "Tang",
+            "Chris Tang",
+            "Tang Ping-keung"
+          ],
+          "lang": "Hong Kong",
+          "template": "family name hatnote"
+        },
+        {
           "country": "HKG",
           "size": "100%",
           "list": [

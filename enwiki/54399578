@@ -68,6 +68,15 @@
           "template": "use hong kong english"
         },
         {
+          "list": [
+            "Lee",
+            "John Lee",
+            "Lee Ka-chiu"
+          ],
+          "lang": "Hong Kong",
+          "template": "family name hatnote"
+        },
+        {
           "country": "HKG",
           "list": [
             "SBS",
