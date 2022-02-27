@@ -262,6 +262,14 @@
           "template": "use dmy dates"
         },
         {
+          "time": "2020-11-06T00:53:31-08:00",
+          "date": "February 2022",
+          "template": "pov"
+        },
+        {
+          "template": "multiple issues"
+        },
+        {
           "country": "HKG",
           "size": "100%",
           "list": [
