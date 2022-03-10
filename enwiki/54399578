@@ -1,373 +1,45 @@
 {
-  "title": "John Lee (government official)",
-  "pageID": 54399578,
-  "categories": [
-    "1957 births",
-    "Living people",
-    "Government officials of Hong Kong",
-    "Hong Kong civil servants",
-    "Hong Kong police officers",
-    "Charles Sturt University alumni",
-    "Recipients of the Silver Bauhinia Star",
-    "Individuals sanctioned by the United States under the Hong Kong Autonomy Act",
-    "Specially Designated Nationals and Blocked Persons List"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "John Lee Ka-chiu, (born 7 December 1957) is a Hong Kong government official and former police officer serving as the current Chief Secretary for Administration, the second senior position in Hong Kong government since 25 June 2021.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Hong Kong"
-                },
-                {
-                  "type": "internal",
-                  "page": "Chief Secretary for Administration"
-                },
-                {
-                  "text": "Hong Kong government",
-                  "type": "internal",
-                  "page": "Government of Hong Kong"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "John Lee Ka-chiu"
-                ]
-              }
-            },
-            {
-              "text": "Lee previously served as Secretary for Security, Under Secretary for Security and Deputy Commissioner of Police.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Secretary for Security"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Hong Kong official",
-          "template": "short description"
-        },
-        {
-          "date": "June 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "date": "June 2021",
-          "template": "use hong kong english"
-        },
-        {
-          "list": [
-            "Lee",
-            "John Lee",
-            "Lee Ka-chiu"
-          ],
-          "lang": "Hong Kong",
-          "template": "family name hatnote"
-        },
-        {
-          "country": "HKG",
-          "list": [
-            "SBS",
-            "PDSM",
-            "PMSM",
-            "JP"
-          ],
-          "size": "90%",
-          "template": "post-nominals"
-        },
-        {
-          "year": "1957",
-          "month": "12",
-          "day": "7",
-          "df": "yes",
-          "template": "birth date and age"
-        },
-        {
-          "c": "李家超",
-          "j": "lei5 gaa1 ciu1",
-          "p": "Lǐ Jiāchāo",
-          "template": "chinese"
-        },
-        {
-          "country": "HKG",
-          "list": [
-            "SBS",
-            "PDSM",
-            "PMSM",
-            "JP"
-          ],
-          "size": "100%",
-          "sep": "y",
-          "template": "post-nominals"
-        },
-        {
-          "list": [
-            "李家超"
-          ],
-          "template": "zh-t"
-        }
-      ],
-      "infoboxes": [
-        {
-          "child": {
-            "text": "yes"
-          },
-          "department": {
-            "text": "Hong Kong Police Force",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hong Kong Police Force"
-              }
-            ]
-          },
-          "serviceyears": {
-            "text": "1977 – 2012"
-          },
-          "rank": {
-            "text": "Deputy Commissioner of Police (Management)",
-            "links": [
-              {
-                "text": "Deputy Commissioner of Police (Management)",
-                "type": "internal",
-                "page": "Hong Kong Police Force",
-                "anchor": "Ranks and insignia"
-              }
-            ]
-          },
-          "awards": {
-            "text": "· PDSM · PMSM"
-          }
-        },
-        {
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "John Lee"
-          },
-          "native_name": {
-            "text": "李家超"
-          },
-          "native_name_lang": {
-            "text": "zh-hk"
-          },
-          "image": {
-            "text": "Lee Ka-chiu 20210826.png"
-          },
-          "caption": {
-            "text": "John Lee in August 2021"
-          },
-          "order1": {
-            "text": "8th"
-          },
-          "office1": {
-            "text": "Chief Secretary for Administration"
-          },
-          "term_start1": {
-            "text": "25 June 2021"
-          },
-          "1blankname1": {
-            "text": "Chief Executive"
-          },
-          "1namedata1": {
-            "text": "Carrie Lam",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Carrie Lam"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Matthew Cheung",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Matthew Cheung"
-              }
-            ]
-          },
-          "order2": {
-            "text": "5th"
-          },
-          "office2": {
-            "text": "Secretary for Security"
-          },
-          "term_start2": {
-            "text": "1 July 2017"
-          },
-          "term_end2": {
-            "text": "25 June 2021"
-          },
-          "1blankname2": {
-            "text": "Chief Executive"
-          },
-          "1namedata2": {
-            "text": "Carrie Lam",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Carrie Lam"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Lai Tung-kwok",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lai Tung-kwok"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Chris Tang",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chris Tang"
-              }
-            ]
-          },
-          "order3": {
-            "text": "2nd"
-          },
-          "office3": {
-            "text": "Security Bureau (Hong Kong)"
-          },
-          "term_start3": {
-            "text": "1 October 2012"
-          },
-          "term_end3": {
-            "text": "1 July 2017"
-          },
-          "1blankname3": {
-            "text": "Secretary",
-            "links": [
-              {
-                "text": "Secretary",
-                "type": "internal",
-                "page": "Secretary for Security"
-              }
-            ]
-          },
-          "1namedata3": {
-            "text": "Lai Tung-kwok",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lai Tung-kwok"
-              }
-            ]
-          },
-          "predecessor3": {
-            "text": "Lai Tung-kwok",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lai Tung-kwok"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Sonny Au"
-          },
-          "birth_name": {
-            "text": "Lee Ka-chiu"
-          },
-          "birth_date": {
-            "text": "December 7, 1957"
-          },
-          "birth_place": {
-            "text": "Hong Kong",
-            "links": [
-              {
-                "text": "Hong Kong",
-                "type": "internal",
-                "page": "British Hong Kong"
-              }
-            ]
-          },
-          "residence": {
-            "text": "Homantin, Kowloon",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Homantin"
-              },
-              {
-                "type": "internal",
-                "page": "Kowloon"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Chinese (Hong Kong) (since 1997)\n\nBritish (until 2012)",
-            "links": [
-              {
-                "text": "Chinese",
-                "type": "internal",
-                "page": "Chinese nationality law"
-              },
-              {
-                "text": "Hong Kong",
-                "type": "internal",
-                "page": "Right of abode in Hong Kong"
-              },
-              {
-                "text": "British",
-                "type": "internal",
-                "page": "British nationality law"
-              }
-            ]
-          },
-          "education": {
-            "text": "Wah Yan College, Kowloon",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Wah Yan College, Kowloon"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Charles Sturt University (MPPA)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Charles Sturt University"
-              },
-              {
-                "text": "MPPA",
-                "type": "internal",
-                "page": "Master of Public Policy and Administration"
-              }
-            ]
-          },
-          "signature": {
-            "text": "Signature_of_John_Lee_Ka-chiu.png"
-          }
-        }
-      ]
-    }
-  ]
+  "child": "yes",
+  "department": "Hong Kong Police Force",
+  "serviceyears": "1977 – 2012",
+  "rank": "Deputy Commissioner of Police (Management)",
+  "awards": "· PDSM · PMSM"
+}
+{
+  "honorific-prefix": "The Honourable",
+  "name": "John Lee",
+  "native_name": "李家超",
+  "native_name_lang": "zh-hk",
+  "image": "Lee Ka-chiu 20210826.png",
+  "caption": "John Lee in August 2021",
+  "order1": "8th",
+  "office1": "Chief Secretary for Administration",
+  "term_start1": "25 June 2021",
+  "1blankname1": "Chief Executive",
+  "1namedata1": "Carrie Lam",
+  "predecessor1": "Matthew Cheung",
+  "order2": "5th",
+  "office2": "Secretary for Security",
+  "term_start2": "1 July 2017",
+  "term_end2": "25 June 2021",
+  "1blankname2": "Chief Executive",
+  "1namedata2": "Carrie Lam",
+  "predecessor2": "Lai Tung-kwok",
+  "successor2": "Chris Tang",
+  "order3": "2nd",
+  "office3": "Security Bureau (Hong Kong)",
+  "term_start3": "1 October 2012",
+  "term_end3": "1 July 2017",
+  "1blankname3": "Secretary",
+  "1namedata3": "Lai Tung-kwok",
+  "predecessor3": "Lai Tung-kwok",
+  "successor3": "Sonny Au",
+  "birth_name": "Lee Ka-chiu",
+  "birth_date": "December 7, 1957",
+  "birth_place": "Hong Kong",
+  "residence": "Homantin, Kowloon",
+  "nationality": "Chinese (Hong Kong) (since 1997)\n\nBritish (until 2012)",
+  "education": "Wah Yan College, Kowloon",
+  "alma_mater": "Charles Sturt University (MPPA)",
+  "signature": "Signature_of_John_Lee_Ka-chiu.png"
 }

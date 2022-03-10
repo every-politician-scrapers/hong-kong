@@ -1,187 +1,21 @@
 {
-  "title": "Raymond Siu",
-  "pageID": 68047615,
-  "categories": [
-    "1966 births",
-    "Living people",
-    "Hong Kong Police commissioners",
-    "Hong Kong civil servants",
-    "Government officials of Hong Kong"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Raymond Siu Chak-yee, (Chinese: 蕭澤頤; born 2 April 1966 ) is the current Commissioner of Police of the Hong Kong Police Force since 25 June 2021.",
-              "links": [
-                {
-                  "text": "Commissioner of Police",
-                  "type": "internal",
-                  "page": "Commissioner of Police (Hong Kong)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Hong Kong Police Force"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Raymond Siu Chak-yee"
-                ]
-              }
-            },
-            {
-              "text": "He previously served as Deputy Commissioner of Police (Operations) of the Hong Kong Police Force under his predecessor Chris Tang.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Chris Tang"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Hong Kong police chief",
-          "template": "short description"
-        },
-        {
-          "date": "August 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "country": "HKG",
-          "size": "100%",
-          "list": [
-            "PDSM",
-            "PMSM"
-          ],
-          "template": "post-nominals"
-        },
-        {
-          "year": "1966",
-          "month": "4",
-          "day": "2",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "country": "HKG",
-          "size": "100%",
-          "list": [
-            "PDSM",
-            "PMSM"
-          ],
-          "template": "post-nominals"
-        }
-      ],
-      "infoboxes": [
-        {
-          "child": {
-            "text": "yes"
-          },
-          "department": {
-            "text": "Hong Kong Police Force",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hong Kong Police Force"
-              }
-            ]
-          },
-          "serviceyears": {
-            "text": "1988 –"
-          },
-          "rank": {
-            "text": "Commissioner",
-            "links": [
-              {
-                "text": "Commissioner",
-                "type": "internal",
-                "page": "Commissioner of Police (Hong Kong)"
-              }
-            ]
-          },
-          "awards": {
-            "text": "· PDSM · PMSM"
-          }
-        },
-        {
-          "name": {
-            "text": "Raymond Siu"
-          },
-          "image": {
-            "text": "Raymond Siu Chak-yee.jpg"
-          },
-          "native_name": {
-            "text": "蕭澤頤"
-          },
-          "native_name_lang": {
-            "text": "zh-hk"
-          },
-          "office": {
-            "text": "Commissioner of Police",
-            "links": [
-              {
-                "text": "Commissioner of Police",
-                "type": "internal",
-                "page": "Commissioner of Police (Hong Kong)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "25 June 2021"
-          },
-          "1blankname": {
-            "text": "Chief Executive"
-          },
-          "1namedata": {
-            "text": "Carrie Lam",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Carrie Lam"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Chris Tang",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chris Tang"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "April 2, 1966"
-          },
-          "birth_place": {
-            "text": "British Hong Kong",
-            "links": [
-              {
-                "type": "internal",
-                "page": "British Hong Kong"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Birmingham",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Birmingham"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "child": "yes",
+  "department": "Hong Kong Police Force",
+  "serviceyears": "1988 –",
+  "rank": "Commissioner",
+  "awards": "· PDSM · PMSM"
+}
+{
+  "name": "Raymond Siu",
+  "image": "Raymond Siu Chak-yee.jpg",
+  "native_name": "蕭澤頤",
+  "native_name_lang": "zh-hk",
+  "office": "Commissioner of Police",
+  "term_start": "25 June 2021",
+  "1blankname": "Chief Executive",
+  "1namedata": "Carrie Lam",
+  "predecessor": "Chris Tang",
+  "birth_date": "April 2, 1966",
+  "birth_place": "British Hong Kong",
+  "alma_mater": "University of Birmingham"
 }

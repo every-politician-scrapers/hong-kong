@@ -1,256 +1,32 @@
 {
-  "title": "Michael Wong Wai-lun",
-  "pageID": 54399275,
-  "categories": [
-    "1962 births",
-    "Living people",
-    "Government officials of Hong Kong",
-    "Hong Kong civil servants",
-    "Alumni of the University of Hong Kong",
-    "Alumni of the University of London"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Michael Wong Wai-lun, JP (born 1962) is a Hong Kong government official who has been Secretary for Development since 2017.",
-              "links": [
-                {
-                  "text": "JP",
-                  "type": "internal",
-                  "page": "Justice of the Peace"
-                },
-                {
-                  "type": "internal",
-                  "page": "Secretary for Development"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Michael Wong Wai-lun"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Hong Kong official",
-          "template": "short description"
-        },
-        {
-          "date": "January 2022",
-          "template": "use dmy dates"
-        },
-        {
-          "list": [
-            "Wong",
-            "Michael Wong",
-            "Wong Wai-lun"
-          ],
-          "lang": "Hong Kong",
-          "template": "family name hatnote"
-        },
-        {
-          "birth_year": "1962",
-          "template": "birth year and age"
-        },
-        {
-          "country": "HKG",
-          "list": [
-            "JP"
-          ],
-          "template": "post-nominals"
-        },
-        {
-          "spouse": "May Chan Wing-shiu",
-          "from": "2008",
-          "template": "marriage"
-        },
-        {
-          "list": [
-            "黃偉綸"
-          ],
-          "template": "zh-t"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Michael Wong"
-          },
-          "honorific-suffix": {
-            "text": "JP",
-            "links": [
-              {
-                "text": "JP",
-                "type": "internal",
-                "page": "Justice of the Peace"
-              }
-            ]
-          },
-          "native_name": {
-            "text": "黃偉綸"
-          },
-          "native_name_lang": {
-            "text": "zh-hk"
-          },
-          "image": {
-            "text": "Michael Wong Wai-lun.png"
-          },
-          "office1": {
-            "text": "Secretary for Development",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Secretary for Development"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "1 July 2017"
-          },
-          "1blankname1": {
-            "text": "Chief Executive"
-          },
-          "1namedata1": {
-            "text": "Carrie Lam",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Carrie Lam"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Eric Ma",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Eric Ma"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Permanent Secretary for Development (Planning and Lands)",
-            "links": [
-              {
-                "text": "Permanent Secretary for Development (Planning and Lands)",
-                "type": "internal",
-                "page": "Development Bureau"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "August 2015"
-          },
-          "term_end2": {
-            "text": "June 2017"
-          },
-          "predecessor2": {
-            "text": "Thomas Chow Tat-ming"
-          },
-          "successor2": {
-            "text": "Bernadette Linn Hon-ho"
-          },
-          "office3": {
-            "text": "Director of Marine",
-            "links": [
-              {
-                "text": "Director of Marine",
-                "type": "internal",
-                "page": "Marine Department (Hong Kong)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "February 2014"
-          },
-          "term_end3": {
-            "text": "August 2015"
-          },
-          "predecessor3": {
-            "text": "Francis Liu Hon-por"
-          },
-          "successor3": {
-            "text": "Maisie Cheng Mei-sze"
-          },
-          "office4": {
-            "text": "Director of Information Services",
-            "links": [
-              {
-                "text": "Director of Information Services",
-                "type": "internal",
-                "page": "Information Services Department"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "August 2009"
-          },
-          "term_end4": {
-            "text": "February 2014"
-          },
-          "predecessor4": {
-            "text": "Betty Fung Ching Suk-yee"
-          },
-          "successor4": {
-            "text": "Patrick Nip",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Patrick Nip"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "1962 (age 60)"
-          },
-          "spouse": {
-            "text": "May Chan Wing-shiu (m. 2008)"
-          },
-          "alma_mater": {
-            "text": "University of Hong Kong (BSocSc) University of London (LLB)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Hong Kong"
-              },
-              {
-                "text": "BSocSc",
-                "type": "internal",
-                "page": "Bachelor of Social Sciences"
-              },
-              {
-                "type": "internal",
-                "page": "University of London"
-              },
-              {
-                "text": "LLB",
-                "type": "internal",
-                "page": "Bachelor of Laws"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Politician · Civil servant"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Honourable",
+  "name": "Michael Wong",
+  "honorific-suffix": "JP",
+  "native_name": "黃偉綸",
+  "native_name_lang": "zh-hk",
+  "image": "Michael Wong Wai-lun.png",
+  "office1": "Secretary for Development",
+  "term_start1": "1 July 2017",
+  "1blankname1": "Chief Executive",
+  "1namedata1": "Carrie Lam",
+  "predecessor1": "Eric Ma",
+  "office2": "Permanent Secretary for Development (Planning and Lands)",
+  "term_start2": "August 2015",
+  "term_end2": "June 2017",
+  "predecessor2": "Thomas Chow Tat-ming",
+  "successor2": "Bernadette Linn Hon-ho",
+  "office3": "Director of Marine",
+  "term_start3": "February 2014",
+  "term_end3": "August 2015",
+  "predecessor3": "Francis Liu Hon-por",
+  "successor3": "Maisie Cheng Mei-sze",
+  "office4": "Director of Information Services",
+  "term_start4": "August 2009",
+  "term_end4": "February 2014",
+  "predecessor4": "Betty Fung Ching Suk-yee",
+  "successor4": "Patrick Nip",
+  "birth_date": "1962 (age 60)",
+  "spouse": "May Chan Wing-shiu (m. 2008)",
+  "alma_mater": "University of Hong Kong (BSocSc) University of London (LLB)",
+  "occupation": "Politician · Civil servant"
 }

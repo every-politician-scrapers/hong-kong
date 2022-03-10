@@ -1,338 +1,43 @@
 {
-  "title": "Patrick Nip",
-  "pageID": 54399151,
-  "categories": [
-    "Living people",
-    "1964 births",
-    "Alumni of the University of Hong Kong",
-    "Harvard Kennedy School alumni",
-    "Government officials of Hong Kong",
-    "Hong Kong civil servants",
-    "Members of the Executive Council of Hong Kong"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Patrick Nip Tak-kuen (born 1964) is a Hong Kong government official.",
-              "formatting": {
-                "bold": [
-                  "Patrick Nip Tak-kuen"
-                ]
-              }
-            },
-            {
-              "text": "Since April 2020, he has been Secretary for the Civil Service in Chief Executive Carrie Lam's administration.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Secretary for the Civil Service"
-                },
-                {
-                  "text": "Chief Executive",
-                  "type": "internal",
-                  "page": "Chief Executive of Hong Kong"
-                },
-                {
-                  "type": "internal",
-                  "page": "Carrie Lam"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "list": [
-            "Nip",
-            "Patrick Nip",
-            "Nip Tak-kuen"
-          ],
-          "lang": "Hong Kong",
-          "template": "family name hatnote"
-        },
-        {
-          "list": [
-            "Government offices"
-          ],
-          "titlestyle": "border:1px dashed lightgrey",
-          "template": "collapsed infobox section begin"
-        },
-        {
-          "template": "collapsed infobox section end"
-        },
-        {
-          "birth_year": "1964",
-          "template": "birth year and age"
-        },
-        {
-          "title": "Patrick Nip Tak-kuen",
-          "order": "ts",
-          "t": "聶德權",
-          "s": "聂德权",
-          "j": "nip6 dak1 kyun4",
-          "p": "Niè Déquán",
-          "template": "chinese"
-        },
-        {
-          "list": [
-            "聶德權"
-          ],
-          "template": "zh-t"
-        }
-      ],
-      "infoboxes": [
-        {
-          "embed": {
-            "text": "yes"
-          },
-          "office2": {
-            "text": "Permanent Secretary for Food and Health (Health)"
-          },
-          "term_start2": {
-            "text": "2016",
-            "number": 2016
-          },
-          "term_end2": {
-            "text": "30 June 2016"
-          },
-          "1blankname2": {
-            "text": "Secretary for Food and Health"
-          },
-          "1namedata2": {
-            "text": "Ko Wing-man",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ko Wing-man"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Richard Yuen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Richard Yuen"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Elizabeth Tse",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Elizabeth Tse"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Director of Information Services"
-          },
-          "term_start3": {
-            "text": "2014",
-            "number": 2014
-          },
-          "term_end3": {
-            "text": "2016",
-            "number": 2016
-          },
-          "predecessor3": {
-            "text": "Michael Wong",
-            "links": [
-              {
-                "text": "Michael Wong",
-                "type": "internal",
-                "page": "Michael Wong Wai-lun"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Joe Wong",
-            "links": [
-              {
-                "text": "Joe Wong",
-                "type": "internal",
-                "page": "Joe Wong (civil servant)"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Director of Social Welfare"
-          },
-          "term_start4": {
-            "text": "2009",
-            "number": 2009
-          },
-          "term_end4": {
-            "text": "2013",
-            "number": 2013
-          },
-          "predecessor4": {
-            "text": "Stephen Fredrick Fisher",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Stephen Fredrick Fisher"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Carol Yip",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Carol Yip"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "1964 (age 58)"
-          },
-          "alma_mater": {
-            "text": "University of Hong Kong (BSS) Harvard Kennedy School (MPA)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Hong Kong"
-              },
-              {
-                "text": "BSS",
-                "type": "internal",
-                "page": "Bachelor of Social Science"
-              },
-              {
-                "type": "internal",
-                "page": "Harvard Kennedy School"
-              },
-              {
-                "text": "MPA",
-                "type": "internal",
-                "page": "Master of Public Administration"
-              }
-            ]
-          },
-          "signature": {
-            "text": "Signature_of_Patrick_Nip.png"
-          }
-        },
-        {
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Patrick Nip Tak-kuen"
-          },
-          "native_name": {
-            "text": "聶德權"
-          },
-          "native_name_lang": {
-            "text": "zh-hk"
-          },
-          "honorific-suffix": {
-            "text": "JP",
-            "links": [
-              {
-                "text": "JP",
-                "type": "internal",
-                "page": "Justice of the Peace"
-              }
-            ]
-          },
-          "image": {
-            "text": "File:Mr_Patrick_Nip_(cropped).jpg"
-          },
-          "office": {
-            "text": "Secretary for the Civil Service",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Secretary for the Civil Service"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "22 April 2020"
-          },
-          "1blankname": {
-            "text": "Chief Executive"
-          },
-          "1namedata": {
-            "text": "Carrie Lam",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Carrie Lam"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Joshua Law",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Joshua Law"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Secretary for Constitutional and Mainland Affairs",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Secretary for Constitutional and Mainland Affairs"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "1 July 2017"
-          },
-          "term_end1": {
-            "text": "22 April 2020"
-          },
-          "1blankname1": {
-            "text": "Chief Executive"
-          },
-          "1namedata1": {
-            "text": "Carrie Lam",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Carrie Lam"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Raymond Tam",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Raymond Tam"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Erick Tsang",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Erick Tsang"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "embed": "yes",
+  "office2": "Permanent Secretary for Food and Health (Health)",
+  "term_start2": "2016",
+  "term_end2": "30 June 2016",
+  "1blankname2": "Secretary for Food and Health",
+  "1namedata2": "Ko Wing-man",
+  "predecessor2": "Richard Yuen",
+  "successor2": "Elizabeth Tse",
+  "office3": "Director of Information Services",
+  "term_start3": "2014",
+  "term_end3": "2016",
+  "predecessor3": "Michael Wong",
+  "successor3": "Joe Wong",
+  "office4": "Director of Social Welfare",
+  "term_start4": "2009",
+  "term_end4": "2013",
+  "predecessor4": "Stephen Fredrick Fisher",
+  "successor4": "Carol Yip",
+  "birth_date": "1964 (age 58)",
+  "alma_mater": "University of Hong Kong (BSS) Harvard Kennedy School (MPA)",
+  "signature": "Signature_of_Patrick_Nip.png"
+}
+{
+  "honorific-prefix": "The Honourable",
+  "name": "Patrick Nip Tak-kuen",
+  "native_name": "聶德權",
+  "native_name_lang": "zh-hk",
+  "honorific-suffix": "JP",
+  "image": "File:Mr_Patrick_Nip_(cropped).jpg",
+  "office": "Secretary for the Civil Service",
+  "term_start": "22 April 2020",
+  "1blankname": "Chief Executive",
+  "1namedata": "Carrie Lam",
+  "predecessor": "Joshua Law",
+  "office1": "Secretary for Constitutional and Mainland Affairs",
+  "term_start1": "1 July 2017",
+  "term_end1": "22 April 2020",
+  "1blankname1": "Chief Executive",
+  "1namedata1": "Carrie Lam",
+  "predecessor1": "Raymond Tam",
+  "successor1": "Erick Tsang"
 }
