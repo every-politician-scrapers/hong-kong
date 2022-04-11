@@ -6,7 +6,6 @@
   "awards": "· PDSM · PMSM"
 }
 {
-  "honorific-prefix": "The Honourable",
   "name": "John Lee",
   "native_name": "李家超",
   "native_name_lang": "zh-hk",
@@ -15,6 +14,7 @@
   "order1": "8th",
   "office1": "Chief Secretary for Administration",
   "term_start1": "25 June 2021",
+  "term_end1": "7 April 2022",
   "1blankname1": "Chief Executive",
   "1namedata1": "Carrie Lam",
   "predecessor1": "Matthew Cheung",
@@ -36,10 +36,10 @@
   "successor3": "Sonny Au",
   "birth_name": "Lee Ka-chiu",
   "birth_date": "December 7, 1957",
-  "birth_place": "Hong Kong",
-  "residence": "Homantin, Kowloon",
+  "birth_place": "British Hong Kong",
+  "residence": "Flat A, 5/F, Block 2, King's Park Villa, No. 1 King's Park Rise, Ho Man Tin, Kowloon",
   "nationality": "Chinese (since 1997)\n\nBritish (until 2012)",
   "education": "Wah Yan College, Kowloon",
   "alma_mater": "Charles Sturt University (MPPA)",
-  "signature": "Signature_of_John_Lee_Ka-chiu.png"
+  "signature": "Signature_of_John_Lee_Ka-chiu.svg"
 }
