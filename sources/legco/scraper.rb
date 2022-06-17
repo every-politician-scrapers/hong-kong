@@ -10,6 +10,7 @@ class ArrayDate < WikipediaDate
   end
 end
 
+# TODO: switch to Legislature class
 class OfficeholderList < OfficeholderListBase
   decorator RemoveReferences
   decorator UnspanAllTables
@@ -30,6 +31,10 @@ class OfficeholderList < OfficeholderListBase
 
     def combo_date
       raw_combo_date.scan(/(\d+)年(\d+)月(\d+)日/)
+    end
+
+    def ignore_before
+      1900
     end
 
     def date_class
