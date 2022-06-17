@@ -5,7 +5,7 @@ require 'every_politician_scraper/comparison'
 
 # For now, only compare which members are included or not, as
 # WP has separate memberships by term, whereas WD usually doesn't
-class Comparison < EveryPoliticianScraper::NulllessComparison
+class Comparison < EveryPoliticianScraper::DecoratedComparison
   def columns
     %i[item name]
   end
