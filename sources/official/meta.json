@@ -12,13 +12,16 @@
       "start": "2017-07-01",
       "parent": "Q1545681"
     },
-    "source": {
-        "url":   "https://www.ceo.gov.hk/exco/eng/membership.html",
-        "title": "Executive Council - Membership of Executive Council",
-        "lang":  {
-            "code": "en",
-            "wikidata": "Q1860"
+    "reference": {
+        "P854":   "https://www.ceo.gov.hk/exco/eng/membership.html",
+        "P1476": {
+            "text": "Executive Council - Membership of Executive Council",
+            "language": "en"
         }
     },
-    "agent": "every-politican-scrapers/hong-kong-ministers"
+    "current_only": "true",
+    "lang": "en",
+    "person_description": {
+        "en": "politician in Hong Kong"
+    }
 }
