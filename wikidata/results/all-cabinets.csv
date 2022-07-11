@@ -1,2 +1,3 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q30456283,Lam Administration,2017-07-01,11,,,,,,,,,,,,,,
+,Q30456283,Lam Administration,2017-07-01,11,,,2022-06-30,11,,,,,Q112651251,Lee government,,,,
+,Q112651251,Lee government,2022-07-01,11,,,,,,,Q30456283,Lam Administration,,,,,,
