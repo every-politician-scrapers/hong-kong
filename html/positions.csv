@@ -23,7 +23,7 @@ Q28012226,Secretary for Health and Welfare,,Q8646,,,1997-07-01,2002-06-30,,,
 Q7444262,"Secretary for Health, Welfare and Food",,Q8646,,,2002-07-01,2007-06-30,,,"Secretary for Health, Welfare and Food"
 Q7444263,Secretary for Home Affairs,Q148,,,,1997-07-01,,,,Secretary for Home and Youth Affairs
 Q113010869,Secretary for Home and Youth Affairs,Q148,Q8646,,,,,,,
-Q28013721,Secretary for Housing,,Q8646,,,1997-07-01,2002-06-30,,,
+Q28013721,Secretary for Housing,,Q8646,,,1997-07-01,2002-06-30,,,Secretary for Housing
 Q7444264,"Secretary for Housing, Planning and Lands",,,,,2002-07-01,2007-06-30,,Q7444254,"Secretary for Housing, Planning and Lands"
 Q25339746,Secretary for Innovation and Technology,Q148,Q8646,,,2015-11-20,,,,"Secretary for Innovation, Technology and Industry"
 Q835507,Secretary for Justice,,Q8646,Q113010918,,1997-07-01,,Q23928722,,Secretary for Justice (Hong Kong)
@@ -32,7 +32,7 @@ Q28012901,"Secretary for Planning, Environment and Lands",,,,,1997-07-01,1999-12
 Q5541355,Secretary for Security,Q148,Q8646,,,1997-07-01,,Q23939660,,Secretary for Security
 Q18378136,Secretary for Trade and Industry,,,,,,,,,Secretary for Trade and Industry
 Q51354474,Secretary for Transport,,,,,1997-07-01,2002-03-31,,,
-Q7444275,Secretary for Transport and Housing,Q148,,,,2007-07-01,2022-06-30,Q7444264,Q28013721,Secretary for Transport and Housing
+Q7444275,Secretary for Transport and Housing,Q148,,,,2007-07-01,2022-06-30,Q7444264,Q28013721,Secretary for Transport and Logistics
 Q113010712,Secretary for Transport and Logistics,Q148,Q8646,,,,,,,
 Q113010954,Deputy Chief Secretary for Administration,Q148,Q8646,,,,,,,
 Q113010928,Deputy Financial Secretary,Q148,Q8646,,,,,,,
