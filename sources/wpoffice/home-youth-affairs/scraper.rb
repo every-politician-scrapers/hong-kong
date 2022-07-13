@@ -14,7 +14,7 @@ class OfficeholderList < OfficeholderListBase
   end
 
   def table_number
-    9
+    'last()'
   end
 
   class Officeholder < OfficeholderBase
