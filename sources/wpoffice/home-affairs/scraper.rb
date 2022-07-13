@@ -14,7 +14,7 @@ class OfficeholderList < OfficeholderListBase
   end
 
   def table_number
-    8
+    6
   end
 
   class Officeholder < OfficeholderBase
