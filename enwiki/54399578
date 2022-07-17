@@ -12,10 +12,12 @@
   "y": "Léih Gā-chīu"
 }
 {
+  "honorific-prefix": "The Honourable",
   "name": "Lee Ka-chiu",
   "native_name": "李家超",
   "native_name_lang": "zh-Hant-HK",
-  "order1": "5th Chief Executive of Hong Kong",
+  "order1": "5th",
+  "office1": "Chief Executive of Hong Kong",
   "term_start1": "1 July 2022",
   "president1": "Xi Jinping",
   "premier1": "Li Keqiang",
