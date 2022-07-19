@@ -1,0 +1,290 @@
+{
+  "title": "Lo Chung-mau",
+  "pageID": 71265012,
+  "categories": [
+    "1961 births",
+    "Living people",
+    "Recipents of the Bronze Bauhinia Star",
+    "Hong Kong justices of the peace",
+    "Alumni of the University of Hong Kong",
+    "Alumni of Queen's College, Hong Kong",
+    "Hong Kong pro-Beijing politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Lo Chung-mau (, born 1961) is a specialist in liver transplant, currently the Secretary of Health of the Government of Hong Kong.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Secretary of Health"
+                },
+                {
+                  "type": "internal",
+                  "page": "Government of Hong Kong"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Lo Chung-mau"
+                ]
+              }
+            },
+            {
+              "text": "Before joining the government, he was Hospital Chief Executive at The University of Hong Kong-Shenzhen Hospital, Chair of Hepatobiliary & Pancreatic Surgery at The University of Hong Kong and Director of Liver Transplantation Centre at Queen Mary Hospital."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "image": "Principal Officials of Sixth-term HKSAR Government 20220619 voa.jpg",
+          "bsize": "3999",
+          "cwidth": "180",
+          "cheight": "240",
+          "otop": "1200",
+          "oleft": "2840",
+          "location": "center",
+          "template": "css image crop"
+        },
+        {
+          "birth_year": "1961",
+          "template": "birth year and age"
+        },
+        {
+          "t": "盧寵茂",
+          "template": "zh"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "Professor The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Professor"
+              },
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Lo Chung-mau"
+          },
+          "native_name": {
+            "text": "盧寵茂"
+          },
+          "honorific-suffix": {
+            "text": "BBS JP",
+            "links": [
+              {
+                "text": "BBS",
+                "type": "internal",
+                "page": "Bronze Bauhinia Star"
+              },
+              {
+                "text": "JP",
+                "type": "internal",
+                "page": "Justice of the peace"
+              }
+            ]
+          },
+          "office": {
+            "text": "1st Secretary for Health",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Secretary for Health"
+              }
+            ]
+          },
+          "1blankname": {
+            "text": "Chief Executive"
+          },
+          "1namedata": {
+            "text": "John Lee",
+            "links": [
+              {
+                "text": "John Lee",
+                "type": "internal",
+                "page": "John Lee (government official)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 July 2022"
+          },
+          "predecessor": {
+            "text": "Sophia Chan (as Secretary for Food and Health)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sophia Chan"
+              },
+              {
+                "type": "internal",
+                "page": "Secretary for Food and Health"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "1961 (age 61)"
+          },
+          "birth_place": {
+            "text": "Portuguese Macau",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Portuguese Macau"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Chinese Portuguese (1961–?)"
+          },
+          "occupation": {
+            "text": "Hospital Chief Executive of University of Hong Kong-Shenzhen Hospital Head of Queen Mary Hospital Liver Transplant Centre",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Hong Kong-Shenzhen Hospital"
+              },
+              {
+                "text": "Queen Mary Hospital",
+                "type": "internal",
+                "page": "Queen Mary Hospital (Hong Kong)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "盧寵茂深圳灣口岸視察 稱要檢測市民排45分鐘作登記是太慢",
+          "url": "https://hd.stheadline.com/news/realtime/hk/2353694/",
+          "publisher": "頭條日報",
+          "date": "2022-07-10",
+          "quote": "Lo holding Macau Resident ID Card",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.surgery.hku.hk/Our-Team/Academic-Staff/Chair-Professor/Professor-Chung-Mau-LO/Professor-Chung-Mau-LO-Profile",
+          "title": "Department of Surgery of the University of Hong Kong",
+          "date": "2022-07-10",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "北京大学医学部客座教授名录",
+          "url": "https://web.archive.org/web/20210712061300/https://research.bjmu.edu.cn/zl/bwxzmych/kzjsml/index.htm",
+          "publisher": "北京大学医学部",
+          "accessdate": "2021-07-12",
+          "quote": "Lo was displayed as having Portuguese nationality in 2002",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "COVID-19",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In July 2022, Lo confirmed that Hong Kong would continue to adhere to China's zero-Covid policy."
+            },
+            {
+              "text": "He also rejected calls for quarantine-free travel and rejected living with COVID-19."
+            },
+            {
+              "text": "Lo also said it would be unreasonable to have a fully-open border with mainland China or the rest of the world."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Lo once said that living with COVID would be \"going to hell together\"."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 10 July 2022, Lo announced on a television show that government authorities hoped to implement real-name registration to the LeaveHomeSafe app as soon as possible; 4 days later, Sun Dong said there were no plans for his department to implement the changes.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "LeaveHomeSafe"
+                },
+                {
+                  "text": "Sun Dong",
+                  "type": "internal",
+                  "page": "Dong Sun"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "2022-07-13",
+          "title": "Exclusive: Hong Kong could see quarantine-free travel by November with conditions: minister",
+          "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3185067/one-country-two-systems-principle-lets-hong-kong",
+          "access-date": "2022-07-14",
+          "website": "South China Morning Post",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-07-14",
+          "title": "Hong Kong health chief dismisses need for real-name registration on Covid app",
+          "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3185249/coronavirus-hong-kong-u-turns-plan-require-real",
+          "access-date": "2022-07-14",
+          "website": "South China Morning Post",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Standard",
+          "first": "The",
+          "title": "New health chief dismisses quarantine-free travel for Hong Kong",
+          "url": "https://www.thestandard.com.hk/breaking-news/section/4/192046/New-health-chief-dismisses-quarantine-free-travel-for-Hong-Kong",
+          "access-date": "2022-07-08",
+          "website": "The Standard",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}

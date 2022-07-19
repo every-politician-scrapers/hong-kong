@@ -1,0 +1,807 @@
+{
+  "title": "Eric Chan",
+  "pageID": 32693613,
+  "categories": [
+    "1959 births",
+    "Living people",
+    "Government officials of Hong Kong",
+    "Hong Kong civil servants",
+    "Recipients of the Silver Bauhinia Star",
+    "Individuals sanctioned by the United States under the Hong Kong Autonomy Act"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Eric Chan Kwok-ki (born 5 April 1959) is a Hong Kong politician who is the incumbent Chief Secretary for Administration since 1 July 2022.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chief Secretary for Administration"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Eric Chan Kwok-ki"
+                ]
+              }
+            },
+            {
+              "text": "He was also the secretary-general of the Committee for Safeguarding National Security (2020-2022).",
+              "links": [
+                {
+                  "text": "Committee for Safeguarding National Security",
+                  "type": "internal",
+                  "page": "Committee for Safeguarding National Security of the Hong Kong Special Administrative Region"
+                }
+              ]
+            },
+            {
+              "text": "Previously, he served as Director of the Chief Executive's Office (2017-2022) and Director of Immigration (2011–2016).",
+              "links": [
+                {
+                  "text": "Chief Executive's Office",
+                  "type": "internal",
+                  "page": "Office of the Chief Executive"
+                },
+                {
+                  "type": "internal",
+                  "page": "Director of Immigration"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Chan",
+            "Eric Chan",
+            "Chan Kwok-ki"
+          ],
+          "lang": "Hong Kong",
+          "template": "family name hatnote"
+        },
+        {
+          "date": "July 2020",
+          "template": "use hong kong english"
+        },
+        {
+          "country": "HKG",
+          "list": [
+            "SBS",
+            "IDSM",
+            "JP"
+          ],
+          "template": "post-nominals"
+        },
+        {
+          "list": [
+            "1959",
+            "4",
+            "5"
+          ],
+          "df": "yes",
+          "template": "brith date and age"
+        },
+        {
+          "country": "HKG",
+          "list": [
+            "SBS",
+            "IDSM",
+            "JP"
+          ],
+          "template": "post-nominals"
+        },
+        {
+          "t": "陳國基",
+          "template": "zh"
+        }
+      ],
+      "infoboxes": [
+        {
+          "child": {
+            "text": "yes"
+          },
+          "name1": {
+            "text": "Eric Chan Kwok-ki"
+          },
+          "t": {
+            "text": "陳國基"
+          },
+          "s": {
+            "text": "陈国基"
+          },
+          "p": {
+            "text": "Chén Guójī"
+          },
+          "j": {
+            "text": "Can4 Gwok3-gei1"
+          }
+        },
+        {
+          "name": {
+            "text": "Eric Chan Kwok-ki"
+          },
+          "native_name": {
+            "text": "陳國基"
+          },
+          "native_name_lang": {
+            "text": "zh"
+          },
+          "image": {
+            "text": "File:特首辦主任陳國基5.jpg"
+          },
+          "order1": {
+            "text": "9th"
+          },
+          "office1": {
+            "text": "Chief Secretary for Administration"
+          },
+          "term_start1": {
+            "text": "1 July 2022"
+          },
+          "1blankname1": {
+            "text": "Chief Executive"
+          },
+          "1namedata1": {
+            "text": "John Lee",
+            "links": [
+              {
+                "text": "John Lee",
+                "type": "internal",
+                "page": "John Lee (government official)"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "John Lee",
+            "links": [
+              {
+                "text": "John Lee",
+                "type": "internal",
+                "page": "John Lee (government official)"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Director of the Chief Executive's Office",
+            "links": [
+              {
+                "text": "Chief Executive's Office",
+                "type": "internal",
+                "page": "Office of the Chief Executive"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "1 July 2017"
+          },
+          "term_end2": {
+            "text": "30 June 2022"
+          },
+          "1blankname2": {
+            "text": "Chief Executive"
+          },
+          "1namedata2": {
+            "text": "Carrie Lam",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carrie Lam"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Edward Yau",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Edward Yau"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Carol Yip man-kuen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carol Yip man-kuen"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Secretary-General of the Committee for Safeguarding National Security",
+            "links": [
+              {
+                "text": "Committee for Safeguarding National Security",
+                "type": "internal",
+                "page": "Committee for Safeguarding National Security of the Hong Kong Special Administrative Region"
+              }
+            ]
+          },
+          "1blankname3": {
+            "text": "Chairperson"
+          },
+          "1namedata3": {
+            "text": "Carrie Lam",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carrie Lam"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "2 July 2020"
+          },
+          "term_end3": {
+            "text": "30 June 2022"
+          },
+          "office4": {
+            "text": "Director of Immigration",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Director of Immigration"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "28 March 2011"
+          },
+          "term_end4": {
+            "text": "4 April 2016"
+          },
+          "1blankname4": {
+            "text": "Chief Executive"
+          },
+          "1namedata4": {
+            "text": "Donald Tsang Leung Chun-ying",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Donald Tsang"
+              },
+              {
+                "type": "internal",
+                "page": "Leung Chun-ying"
+              }
+            ]
+          },
+          "predecessor4": {
+            "text": "Simon Peh",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Simon Peh"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Erick Tsang",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Erick Tsang"
+              }
+            ]
+          },
+          "birth_place": {
+            "text": "Hong Kong",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hong Kong"
+              }
+            ]
+          },
+          "residence": {
+            "text": "Shatin, Hong Kong",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Shatin"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Shue Yan College (HonDip)\nTsinghua University (LLB)",
+            "links": [
+              {
+                "text": "Shue Yan College",
+                "type": "internal",
+                "page": "Hong Kong Shue Yan College"
+              },
+              {
+                "text": "HonDip",
+                "type": "internal",
+                "page": "Honours Diploma"
+              },
+              {
+                "type": "internal",
+                "page": "Tsinghua University"
+              },
+              {
+                "text": "LLB",
+                "type": "internal",
+                "page": "Bachelor of Laws"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Civil servant"
+          },
+          "spouse": {
+            "text": "Kristy Lai Chin-har"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://hk.appledaily.com/local/20170505/ZAL3LEWHKEHKRI7U4OLV5BZC5E/",
+          "archive-url": "https://web.archive.org/web/20201201062040/https://hk.appledaily.com/local/20170505/ZAL3LEWHKEHKRI7U4OLV5BZC5E/",
+          "url-status": "dead",
+          "archive-date": "December 1, 2020",
+          "script-title": "zh:妻任校長　屢派下屬到校撐場",
+          "date": "2017-05-05",
+          "work": "Apple Daily",
+          "location": "Hong Kong",
+          "access-date": "2020-08-08",
+          "language": "zh-hk",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Establishment of Committee for Safeguarding National Security of HKSAR (with photos)",
+          "url": "https://www.info.gov.hk/gia/general/202007/03/P2020070300653.htm",
+          "website": "www.info.gov.hk",
+          "publisher": "Hong Kong Government",
+          "accessdate": "6 July 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.info.gov.hk/gia/general/201604/05/P201604050170.htm",
+          "title": "Appointment of Director of Immigration",
+          "publisher": "Government of Hong Kong",
+          "date": "April 5, 2016",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.gov.hk/en/about/govdirectory/po/di.htm",
+          "title": "Mr Eric Chan Kwok-ki, IDSM, Director of Immigration",
+          "publisher": "Government of Hong Kong",
+          "date": "March 2011",
+          "accessdate": "9 August 2011",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Chan studied in CCC Heep Woh College from 1972 to 1976.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "CCC Heep Woh College"
+                }
+              ]
+            },
+            {
+              "text": "In 1982, he graduated from Hong Kong Shue Yan College (Now Hong Kong Shue Yan University).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hong Kong Shue Yan College"
+                }
+              ]
+            },
+            {
+              "text": "During the year of his services, he completed a bachelor of Laws degree at Tsinghua University in 2001.",
+              "links": [
+                {
+                  "text": "bachelor of Laws",
+                  "type": "internal",
+                  "page": "bachelor of Laws"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tsinghua University"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Chan joined the Immigration Department of Hong Kong as an Assistant Immigration Officer in 1982.",
+              "links": [
+                {
+                  "text": "Immigration Department of Hong Kong",
+                  "type": "internal",
+                  "page": "Immigration Department (Hong Kong)"
+                }
+              ]
+            },
+            {
+              "text": "In 1989, he was promoted to Immigration Officer, then Senior Immigration Officer in 1995, and Chief Immigration Officer in 2000."
+            },
+            {
+              "text": "By 2003, he was Assistant Principal Immigration Officer, and promoted to Principal Immigration Officer the following year."
+            },
+            {
+              "text": "In 2007, Chan was appointed as Assistant Director of Immigration, then Deputy Director of Immigration in 2010."
+            },
+            {
+              "text": "He was appointed as Director of Immigration in March 2011 succeeding Simon Peh.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Director of Immigration"
+                },
+                {
+                  "type": "internal",
+                  "page": "Simon Peh"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Chan was involved in the import restriction imposed on Japanese goods to Hong Kong in aftermath of Fukushima Daiichi nuclear disaster.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Fukushima Daiichi nuclear disaster"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In May 2017, Chan was appointed Director of Chief Executive-elect's Office under Chief Executive-elect Carrie Lam.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Carrie Lam"
+                }
+              ]
+            },
+            {
+              "text": "He was appointed Director of Chief Executive's Office when Lam took office in July 2017.",
+              "links": [
+                {
+                  "text": "Lam took office",
+                  "type": "internal",
+                  "page": "Carrie Lam as Chief Executive of Hong Kong"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In July 2020, Chan was appointed Secretary General of the Committee for Safeguarding National Security of the Hong Kong Special Administrative Region.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Committee for Safeguarding National Security of the Hong Kong Special Administrative Region"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.chinadaily.com.cn/hkedition/2011-03/22/content_12205532.htm",
+          "title": "Govt to push ahead nuclear power despite Japan incident",
+          "first": "Andrea",
+          "last": "Deng",
+          "date": "22 March 2011",
+          "newspaper": "China Daily",
+          "accessdate": "9 August 2011",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.thestandard.com.hk/news_detail.asp?pp_cat=17&art_id=109121&sid=31647646&con_type=1",
+          "title": "Second blast lifts fallout fears",
+          "newspaper": "The Standard",
+          "date": "15 March 2011",
+          "accessdate": "9 August 2011",
+          "url-status": "dead",
+          "archiveurl": "https://web.archive.org/web/20121019042005/http://www.thestandard.com.hk/news_detail.asp?pp_cat=17&art_id=109121&sid=31647646&con_type=1",
+          "archivedate": "19 October 2012",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.info.gov.hk/gia/general/201705/04/P2017050400389.htm",
+          "title": "Appointment of Director of Chief Executive-elect's Office",
+          "newspaper": "Government of Hong Kong",
+          "accessdate": "4 May 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.info.gov.hk/gia/general/201706/21/P2017062100346.htm",
+          "title": "New team of Principal Officials appointed",
+          "newspaper": "Government of Hong Kong",
+          "accessdate": "21 June 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Appointment of Secretary General of Committee for Safeguarding National Security of HKSAR (with photos)",
+          "url": "https://www.info.gov.hk/gia/general/202007/02/P2020070200686.htm",
+          "website": "www.info.gov.hk",
+          "publisher": "Hong Kong Government",
+          "accessdate": "6 July 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "U.S. sanctions",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In August 2020, Chan and ten other officials were sanctioned by the United States Department of the Treasury under Executive Order 13936 by President Trump for undermining Hong Kong's autonomy.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United States Department of the Treasury"
+                },
+                {
+                  "type": "internal",
+                  "page": "Executive Order 13936"
+                },
+                {
+                  "text": "President Trump",
+                  "type": "internal",
+                  "page": "Presidency of Donald Trump"
+                }
+              ]
+            },
+            {
+              "text": "His home at Royal Ascot in Sha Tin was bought for HKD 8.69 million in 2009 and the mortgage was fully paid off, negating any issues that could arise from sanctions against his bank.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sha Tin"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On October 14, 2020, the United States Department of State released a report on ten individuals who materially contributed to the failure of China to fulfill its obligations under the Sino–British Joint Declaration and Hong Kong's Basic Law.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United States Department of State"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sino–British Joint Declaration"
+                },
+                {
+                  "type": "internal",
+                  "page": "Hong Kong's Basic Law"
+                }
+              ]
+            },
+            {
+              "text": "Chan was included on the list."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "US sanctions Hong Kong leader Carrie Lam, police chief and 9 other top officials for 'undermining autonomy'",
+          "url": "https://hongkongfp.com/2020/08/07/breaking-us-sanctions-hong-kong-leader-carrie-lam-police-chief-and-other-top-officials-for-undermining-autonomy/",
+          "accessdate": "7 August 2020",
+          "work": "Hong Kong Free Press HKFP",
+          "date": "7 August 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Macias",
+          "first1": "Amanda",
+          "title": "U.S. sanctions Hong Kong leader Carrie Lam for carrying out Chinese 'policies of suppression'",
+          "url": "https://www.cnbc.com/2020/08/07/us-sanctions-hong-kong-leader-carrie-lam.html",
+          "accessdate": "7 August 2020",
+          "work": "CNBC",
+          "date": "7 August 2020",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://home.treasury.gov/news/press-releases/sm1088",
+          "publisher": "United States Department of the Treasury",
+          "title": "Treasury Sanctions Individuals for Undermining Hong Kong’s Autonomy",
+          "date": "7 August 2020",
+          "accessdate": "7 August 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2020-08-21",
+          "title": "Teresa Cheng’s mortgage under scrutiny as US sanctions cut bank ties",
+          "url": "https://www.scmp.com/business/article/3098268/hong-kong-justice-secretarys-standard-chartered-mortgage-under-scrutiny-us",
+          "access-date": "2020-08-24",
+          "website": "South China Morning Post",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "U.S. Department of State",
+          "title": "Identification of Foreign Persons Involved in the Erosion of the Obligations of China Under the Joint Declaration or the Basic Law",
+          "url": "https://www.state.gov/identification-of-foreign-persons-involved-in-the-erosion-of-the-obligations-of-china-under-the-joint-declaration-or-the-basic-law/",
+          "access-date": "14 October 2020",
+          "archive-url": "https://web.archive.org/web/20201015031346/https://www.state.gov/identification-of-foreign-persons-involved-in-the-erosion-of-the-obligations-of-china-under-the-joint-declaration-or-the-basic-law/",
+          "archive-date": "14 October 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Awards",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 2001, Chan was awarded the Hong Kong Immigration Service Long Service Medal."
+            },
+            {
+              "text": "In 2009, he received the Hong Kong Immigration Service Medal for Distinguished Service (IDSM).",
+              "links": [
+                {
+                  "text": "Hong Kong Immigration Service Medal for Distinguished Service",
+                  "type": "internal",
+                  "page": "Orders, decorations, and medals of Hong Kong",
+                  "anchor": "Distinguished Service Medals"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Chan's wife tested positive for COVID-19, and Chan was sent to compulsory quarantine on 21 June 2022; Chan later tested positive for it."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "2022-06-23",
+          "title": "2 top Hong Kong officials contract Covid, raising concerns over state leader visit",
+          "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3182787/coronavirus-hong-kong-logs-over-1000-cases-ninth",
+          "access-date": "2022-06-24",
+          "website": "South China Morning Post",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "commons category"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-gov"
+        },
+        {
+          "template": "s-new"
+        },
+        {
+          "title": "Secretary-General of the Committee for Safeguarding National Security",
+          "years": "2020–2022",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-vac"
+        },
+        {
+          "before": "Edward Yau",
+          "template": "s-bef"
+        },
+        {
+          "title": "Director of the Chief Executive's Office",
+          "years": "2017–2022",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Carol Yip",
+          "template": "s-aft"
+        },
+        {
+          "before": "Simon Peh",
+          "template": "s-bef"
+        },
+        {
+          "title": "Director of Immigration",
+          "years": "2011–2016",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Erick Tsang",
+          "template": "s-aft"
+        },
+        {
+          "template": "s-prec"
+        },
+        {
+          "before": "Carrie Lam Former Chief Executive",
+          "template": "s-bef"
+        },
+        {
+          "title": "Hong Kong order of precedence Chief Secretary for Administration",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Paul Chan Mo-po Financial Secretary",
+          "template": "s-aft"
+        },
+        {
+          "template": "hkexco"
+        }
+      ]
+    }
+  ]
+}
