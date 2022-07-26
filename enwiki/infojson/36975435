@@ -1,0 +1,83 @@
+[
+  {
+    "office": {
+      "links": [
+        "Kwai Tsing District Council"
+      ],
+      "stated_as": "Member of the Kwai Tsing District Council"
+    },
+    "P580": "1994-10-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "New constituency"
+    },
+    "P582": "2019-12-31",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Sin Ho Fai"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Legislative Council of Hong Kong"
+      ],
+      "stated_as": "Member of the Legislative Council"
+    },
+    "P580": "2012-10-01",
+    "P1365": {
+      "links": [
+        "Wong Kwok-hing"
+      ],
+      "stated_as": "Wong Kwok-hing"
+    },
+    "P582": "2021-12-31",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Constituency abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Legislative Council of Hong Kong"
+      ],
+      "stated_as": "Member of the Legislative Council"
+    },
+    "P580": "2022-01-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "New constituency"
+    },
+    "P582": "2022-06-18",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "TBD"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Secretary for Home and Youth Affairs"
+      ],
+      "stated_as": "Secretary for Home and Youth Affairs"
+    },
+    "P580": "2022-07-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    }
+  }
+]

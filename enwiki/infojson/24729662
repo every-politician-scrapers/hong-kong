@@ -1,0 +1,79 @@
+[
+  {
+    "office": {
+      "links": [
+        "Court of First Instance (Hong Kong)",
+        "High Court (Hong Kong)"
+      ],
+      "stated_as": "Judge of the Court of First Instance of the High Court"
+    },
+    "P580": "2001",
+    "P582": "2002"
+  },
+  {
+    "office": {
+      "links": [
+        "Court of Appeal (Hong Kong)",
+        "High Court (Hong Kong)"
+      ],
+      "stated_as": "Justice of Appeal of the Court of Appeal of the High Court"
+    },
+    "P580": "2002",
+    "P582": "2003"
+  },
+  {
+    "office": {
+      "links": [
+        "Chief Judge of the High Court of Hong Kong"
+      ],
+      "stated_as": "3rd Chief Judge of the High Court"
+    },
+    "P580": "2003-07-14",
+    "P1365": {
+      "links": [
+        "Arthur Leong (judge)"
+      ],
+      "stated_as": "Arthur Leong"
+    },
+    "P582": "2010-08-31",
+    "P1366": {
+      "links": [
+        "Andrew Cheung"
+      ],
+      "stated_as": "Andrew Cheung"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Chief Justice of the Court of Final Appeal"
+    },
+    "P1545": "2",
+    "P580": "2010-09-01",
+    "P1365": {
+      "links": [
+        "Andrew Li"
+      ],
+      "stated_as": "Andrew Li"
+    },
+    "P582": "2021-01-11",
+    "P1366": {
+      "links": [
+        "Andrew Cheung"
+      ],
+      "stated_as": "Andrew Cheung"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Designated national security law judges"
+      ],
+      "stated_as": "Designated National Security Law Judge"
+    },
+    "P580": "2020",
+    "P582": "2021"
+  }
+]

@@ -1,0 +1,105 @@
+[
+  {
+    "office": {
+      "links": [
+        "Information Services Department"
+      ],
+      "stated_as": "Director of Information Services"
+    },
+    "P580": "2009-08",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Betty Fung Ching Suk-yee"
+    },
+    "P582": "2014-02",
+    "P1366": {
+      "links": [
+        "Patrick Nip"
+      ],
+      "stated_as": "Patrick Nip"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Marine Department (Hong Kong)"
+      ],
+      "stated_as": "Director of Marine"
+    },
+    "P580": "2014-02",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Francis Liu Hon-por"
+    },
+    "P582": "2015-08",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Maisie Cheng Mei-sze"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Development Bureau"
+      ],
+      "stated_as": "Permanent Secretary for Development (Planning and Lands)"
+    },
+    "P580": "2015-08",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Thomas Chow Tat-ming"
+    },
+    "P582": "2017-06",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Bernadette Linn Hon-ho"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Secretary for Development"
+      ],
+      "stated_as": "Secretary for Development"
+    },
+    "P580": "2017-07-01",
+    "P1365": {
+      "links": [
+        "Eric Ma"
+      ],
+      "stated_as": "Eric Ma"
+    },
+    "P582": "2022-06-30",
+    "P1366": {
+      "links": [
+        "Bernadette Linn"
+      ],
+      "stated_as": "Bernadette Linn"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Deputy Financial Secretary"
+    },
+    "P580": "2022-07-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    }
+  }
+]

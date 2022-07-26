@@ -1,0 +1,72 @@
+[
+  {
+    "office": {
+      "links": [
+        "Director of Immigration"
+      ],
+      "stated_as": "Director of Immigration"
+    },
+    "P580": "2011-03-28",
+    "P1365": {
+      "links": [
+        "Simon Peh"
+      ],
+      "stated_as": "Simon Peh"
+    },
+    "P582": "2016-04-04",
+    "P1366": {
+      "links": [
+        "Erick Tsang"
+      ],
+      "stated_as": "Erick Tsang"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Office of the Chief Executive"
+      ],
+      "stated_as": "Director of the Chief Executive's Office"
+    },
+    "P580": "2017-07-01",
+    "P1365": {
+      "links": [
+        "Edward Yau"
+      ],
+      "stated_as": "Edward Yau"
+    },
+    "P582": "2022-06-30",
+    "P1366": {
+      "links": [
+        "Carol Yip man-kuen"
+      ],
+      "stated_as": "Carol Yip man-kuen"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Committee for Safeguarding National Security of the Hong Kong Special Administrative Region"
+      ],
+      "stated_as": "Secretary-General of the Committee for Safeguarding National Security"
+    },
+    "P580": "2020-07-02",
+    "P582": "2022-06-30"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Chief Secretary for Administration"
+    },
+    "P1545": "9",
+    "P580": "2022-07-01",
+    "P1365": {
+      "links": [
+        "John Lee (government official)"
+      ],
+      "stated_as": "John Lee"
+    }
+  }
+]

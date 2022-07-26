@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "Legislative Council of Hong Kong"
+      ],
+      "stated_as": "Member of the Legislative Council"
+    },
+    "P580": "2008-10-01",
+    "P1365": {
+      "links": [
+        "Mandy Tam"
+      ],
+      "stated_as": "Mandy Tam"
+    },
+    "P582": "2012-07-29",
+    "P1366": {
+      "links": [
+        "Kenneth Leung"
+      ],
+      "stated_as": "Kenneth Leung"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Secretary for Development (Hong Kong)"
+      ],
+      "stated_as": "Secretary for Development"
+    },
+    "P580": "2012-07-30",
+    "P1365": {
+      "links": [
+        "Mak Chai-kwong"
+      ],
+      "stated_as": "Mak Chai-kwong"
+    },
+    "P582": "2017-01-16",
+    "P1366": {
+      "links": [
+        "Eric Ma"
+      ],
+      "stated_as": "Eric Ma"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Financial Secretary of Hong Kong"
+      ],
+      "stated_as": "5th Financial Secretary of Hong Kong"
+    },
+    "P580": "2017-01-16",
+    "P1365": {
+      "links": [
+        "John Tsang"
+      ],
+      "stated_as": "John Tsang"
+    }
+  }
+]
