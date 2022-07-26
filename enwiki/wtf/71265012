@@ -214,6 +214,9 @@
             },
             {
               "text": "Lo also said it would be unreasonable to have a fully-open border with mainland China or the rest of the world."
+            },
+            {
+              "text": "Lo also said that other countries' COVID-19 policies could not be used for Hong Kong, stating \"Many government policies cannot solely rely on foreign theories and practices. We also have to consider Hong Kong’s situation including age, population, vaccination rates, and the capacity of the healthcare system.\""
             }
           ]
         },
@@ -244,6 +247,16 @@
         }
       ],
       "references": [
+        {
+          "date": "2022-07-21",
+          "title": "Hong Kong’s daily cases surpass 4,000, health chief to meet Covid advisers",
+          "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3186039/coronavirus-hong-kong-health-minister-meet",
+          "access-date": "2022-07-25",
+          "website": "South China Morning Post",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
         {
           "date": "2022-07-13",
           "title": "Exclusive: Hong Kong could see quarantine-free travel by November with conditions: minister",
