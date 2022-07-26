@@ -1,0 +1,77 @@
+[
+  {
+    "office": {
+      "links": [
+        "Federation of Hong Kong Industries"
+      ],
+      "stated_as": "Chairman of the Federation of Hong Kong Industries"
+    },
+    "P580": "2003",
+    "P1365": {
+      "links": [
+        "Victor Lo"
+      ],
+      "stated_as": "Victor Lo"
+    },
+    "P582": "2004",
+    "P1366": {
+      "links": [
+        "Kenneth Ting"
+      ],
+      "stated_as": "Kenneth Ting"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Legislative Council of Hong Kong"
+      ],
+      "stated_as": "Member of the Legislative Council"
+    },
+    "P580": "2004-10-01",
+    "P1365": {
+      "links": [
+        "Kenneth Ting"
+      ],
+      "stated_as": "Kenneth Ting"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Business and Professionals Alliance for Hong Kong"
+      ],
+      "stated_as": "Chairman of the Business and Professionals Alliance for Hong Kong"
+    },
+    "P580": "2012-10-07",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "New party"
+    },
+    "P582": "2016-10-13",
+    "P1366": {
+      "links": [
+        "Lo Wai-kwok"
+      ],
+      "stated_as": "Lo Wai-kwok"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of the Legislative Council of Hong Kong"
+      ],
+      "stated_as": "3rd President of the Legislative Council"
+    },
+    "P1545": "3",
+    "P580": "2016-10-12",
+    "P1365": {
+      "links": [
+        "Jasper Tsang Yok-sing"
+      ],
+      "stated_as": "Jasper Tsang"
+    }
+  }
+]

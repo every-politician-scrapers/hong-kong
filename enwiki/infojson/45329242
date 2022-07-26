@@ -1,0 +1,109 @@
+[
+  {
+    "office": {
+      "links": [
+        "Democratic Alliance for the Betterment and Progress of Hong Kong"
+      ],
+      "stated_as": "Vice-Chairman of the Democratic Alliance for the Betterment and Progress of Hong Kong"
+    },
+    "P580": "2011-04-24",
+    "P1365": {
+      "links": [
+        "Carson Wen"
+      ],
+      "stated_as": "Carson Wen"
+    },
+    "P582": "2022-06-18"
+  },
+  {
+    "office": {
+      "links": [
+        "Central and Western District Council"
+      ],
+      "stated_as": "Member of the Central and Western District Council"
+    },
+    "P580": "2012-01-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Chan Tak-chor"
+    },
+    "P582": "2019-12-31",
+    "P1366": {
+      "links": [
+        "Pang Ka-ho"
+      ],
+      "stated_as": "Pang Ka-ho"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Legislative Council of Hong Kong"
+      ],
+      "stated_as": "Member of the Legislative Council"
+    },
+    "P580": "2016-10-01",
+    "P1365": {
+      "links": [
+        "Christopher Chung"
+      ],
+      "stated_as": "Christopher Chung"
+    },
+    "P582": "2021-12-31",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Constituency abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Executive Council of Hong Kong"
+      ],
+      "stated_as": "Non-Official Member of the Executive Council"
+    },
+    "P580": "2017-07-01",
+    "P582": "2022-06-30"
+  },
+  {
+    "office": {
+      "links": [
+        "Legislative Council of Hong Kong"
+      ],
+      "stated_as": "Member of the Legislative Council"
+    },
+    "P580": "2022-01-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "New constituency"
+    },
+    "P582": "2022-06-18",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "TBD"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Secretary for Justice (Hong Kong)"
+      ],
+      "stated_as": "Deputy Secretary for Justice"
+    },
+    "P580": "2022-07-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    }
+  }
+]

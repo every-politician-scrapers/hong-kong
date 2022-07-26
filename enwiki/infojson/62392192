@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Commissioner of Police (Hong Kong)"
+      ],
+      "stated_as": "Commissioner of Police"
+    },
+    "P580": "2019-11-18",
+    "P1365": {
+      "links": [
+        "Stephen Lo"
+      ],
+      "stated_as": "Stephen Lo"
+    },
+    "P582": "2021-06-25",
+    "P1366": {
+      "links": [
+        "Raymond Siu"
+      ],
+      "stated_as": "Raymond Siu"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Secretary for Security"
+      ],
+      "stated_as": "Secretary for Security"
+    },
+    "P580": "2021-06-25",
+    "P1365": {
+      "links": [
+        "John Lee (government official)"
+      ],
+      "stated_as": "John Lee"
+    }
+  }
+]

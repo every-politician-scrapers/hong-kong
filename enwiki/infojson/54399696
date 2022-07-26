@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Director of Immigration"
+      ],
+      "stated_as": "Director of Immigration"
+    },
+    "P580": "2016-04-05",
+    "P1365": {
+      "links": [
+        "Eric Chan"
+      ],
+      "stated_as": "Eric Chan"
+    },
+    "P582": "2020-04-22",
+    "P1366": {
+      "links": [
+        "Au Ka-wang"
+      ],
+      "stated_as": "Au Ka-wang"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Secretary for Constitutional and Mainland Affairs"
+      ],
+      "stated_as": "Secretary for Constitutional and Mainland Affairs"
+    },
+    "P580": "2020-04-22",
+    "P1365": {
+      "links": [
+        "Patrick Nip"
+      ],
+      "stated_as": "Patrick Nip"
+    }
+  }
+]

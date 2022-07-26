@@ -1,0 +1,87 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Security Bureau (Hong Kong)"
+    },
+    "P1545": "2",
+    "P580": "2012-10-01",
+    "P1365": {
+      "links": [
+        "Lai Tung-kwok"
+      ],
+      "stated_as": "Lai Tung-kwok"
+    },
+    "P582": "2017-07-01",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Sonny Au"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Secretary for Security"
+    },
+    "P1545": "5",
+    "P580": "2017-07-01",
+    "P1365": {
+      "links": [
+        "Lai Tung-kwok"
+      ],
+      "stated_as": "Lai Tung-kwok"
+    },
+    "P582": "2021-06-25",
+    "P1366": {
+      "links": [
+        "Chris Tang"
+      ],
+      "stated_as": "Chris Tang"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Chief Secretary for Administration"
+    },
+    "P1545": "8",
+    "P580": "2021-06-25",
+    "P1365": {
+      "links": [
+        "Matthew Cheung"
+      ],
+      "stated_as": "Matthew Cheung"
+    },
+    "P582": "2022-04-07",
+    "P1366": {
+      "links": [
+        "Eric Chan"
+      ],
+      "stated_as": "Eric Chan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Chief Executive of Hong Kong"
+    },
+    "P1545": "5",
+    "P580": "2022-07-01",
+    "P1365": {
+      "links": [
+        "Carrie Lam"
+      ],
+      "stated_as": "Carrie Lam"
+    }
+  }
+]

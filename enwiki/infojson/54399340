@@ -1,0 +1,55 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Under Secretary for Education"
+    },
+    "P580": "2012-07-01",
+    "P1365": {
+      "links": [
+        "Kenneth Chan Ka-lok"
+      ],
+      "stated_as": "Kenneth Chan"
+    },
+    "P582": "2017-06-30",
+    "P1366": {
+      "links": [
+        "Christine Choi Yuk-lin"
+      ],
+      "stated_as": "Christine Choi Yuk-lin"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Secretary for Education (Hong Kong)"
+      ],
+      "stated_as": "Secretary for Education"
+    },
+    "P580": "2017-07-01",
+    "P1365": {
+      "links": [
+        "Eddie Ng"
+      ],
+      "stated_as": "Eddie Ng"
+    },
+    "P582": "2022-06-30",
+    "P1366": {
+      "links": [
+        "Christine Choi Yuk-lin"
+      ],
+      "stated_as": "Christine Choi Yuk-lin"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Secretary for Culture, Sports and Tourism"
+      ],
+      "stated_as": "Secretary for Culture, Sports and Tourism"
+    },
+    "P580": "2022-07-01"
+  }
+]
