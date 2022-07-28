@@ -12,7 +12,8 @@
     "Individuals sanctioned by the United States under the Hong Kong Autonomy Act",
     "Specially Designated Nationals and Blocked Persons List",
     "Hong Kong Roman Catholics",
-    "Chief Executives of Hong Kong"
+    "Chief Executives of Hong Kong",
+    "Recipients of the Grand Bauhinia Medal"
   ],
   "sections": [
     {
@@ -107,10 +108,10 @@
         {
           "country": "HKG",
           "list": [
+            "GBM",
             "SBS",
             "PDSM",
-            "PMSM",
-            "JP"
+            "PMSM"
           ],
           "size": "100%",
           "template": "post-nominals"
@@ -136,10 +137,10 @@
         {
           "country": "HKG",
           "list": [
+            "GBM",
             "SBS",
             "PDSM",
-            "PMSM",
-            "JP"
+            "PMSM"
           ],
           "template": "post-nominals"
         }
