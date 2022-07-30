@@ -43,6 +43,15 @@
       ],
       "templates": [
         {
+          "list": [
+            "Lam",
+            "Paul Lam",
+            "Lam Ting-kwok"
+          ],
+          "lang": "Hong Kong",
+          "template": "family name hatnote"
+        },
+        {
           "country": "HKG",
           "list": [
             "SBS",

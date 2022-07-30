@@ -79,6 +79,15 @@
           "template": "use hong kong english"
         },
         {
+          "list": [
+            "Cheuk",
+            "Warner Cheuk",
+            "Cheuk Wing-hing"
+          ],
+          "lang": "Hong Kong",
+          "template": "family name hatnote"
+        },
+        {
           "image": "Principal Officials of Sixth-term HKSAR Government 20220619 voa.jpg",
           "bsize": "3999",
           "cwidth": "180",

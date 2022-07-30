@@ -335,6 +335,15 @@
       ],
       "templates": [
         {
+          "list": [
+            "Yeung",
+            "Kevin Yeung",
+            "Yeung Yun-hung"
+          ],
+          "lang": "Hong Kong",
+          "template": "family name hatnote"
+        },
+        {
           "year": "1963",
           "month": "1",
           "day": "26",
